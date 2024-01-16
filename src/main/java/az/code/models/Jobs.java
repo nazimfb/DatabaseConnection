@@ -28,4 +28,16 @@ public class Jobs {
 
     @OneToMany(mappedBy = "job")
     List<Employees> employeesList = new ArrayList<>();
+
+    @Override
+    public String toString() {
+        return "Jobs{" +
+                "jobId=" + jobId +
+                ", jobTitle='" + jobTitle + '\'' +
+                ", minSalary=" + minSalary +
+                ", maxSalary=" + maxSalary +
+                ", jobHistory=" + jobHistory +
+                ", employeesList=" + employeesList +
+                '}';
+    }
 }

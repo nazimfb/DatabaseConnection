@@ -13,7 +13,7 @@ import java.util.List;
 @Data
 @Builder
 @NoArgsConstructor
-@AllArgsConstructor
+//@AllArgsConstructor
 public class Employees {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -52,5 +52,23 @@ public class Employees {
                 ", employeesList=" + employeesList +
                 ", department=" + department +
                 '}';
+    }
+
+    public Employees(int employee_id, String first_name,
+                     String last_name, String email, String phone_number,
+                     LocalDateTime hire_date, Jobs job, double salary,
+                     Employees manager, List<Employees> employeesList,
+                     Departments department) {
+        this.employee_id = employee_id;
+        this.first_name = first_name;
+        this.last_name = last_name;
+        this.email = email;
+        this.phone_number = phone_number;
+        this.hire_date = hire_date;
+        this.job = job;
+        this.salary = salary;
+        this.manager = manager;
+        this.employeesList = employeesList;
+        this.department = department;
     }
 }

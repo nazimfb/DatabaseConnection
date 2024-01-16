@@ -1,24 +1,36 @@
 package org.example;
 
 import az.code.models.Employees;
+import az.code.models.Jobs;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
 
-
 import java.sql.SQLException;
-import java.time.LocalDateTime;
+import java.util.List;
+import org.apache.log4j.Logger;
 
 public class Main {
+    static Logger log = Logger.getLogger(Main.class.getName());
     public static void main(String[] args) throws SQLException{
+
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("az.code.models");
         EntityManager em = emf.createEntityManager();
 //        em.getTransaction().commit();
 
-        System.out.println(em.createQuery("SELECT (e.id,e.first_name) FROM Employees e WHERE e.first_name = :firstName1", Employees.class)
+        List<Jobs> jobsList = em.createQuery("SELECT (j.jobTitle, (j.maxSalary-j.minSalary)) " +
+                "FROM Jobs j " +
+                "WHERE j.maxSalary < 18000" +
+                " AND j.maxSalary > 12000", Jobs.class).getResultList();
+        System.out.println(jobsList);
+
+        List<Employees> employees = em.createQuery("SELECT NEW Employees(e.id,e.first_name,e.last_name,e.email,e.phone_number,e.hire_date,e.job,e.salary,e.manager,e.employeesList,e.department) " +
+                        "FROM Employees e " +
+                        "WHERE e.first_name = :firstName1", Employees.class)
                 .setParameter("firstName1", "firstName1")
-                .getResultList());
-        
+                .getResultList();
+        System.out.println(employees);
+
 //        em.close();
 //        emf.close();
 
