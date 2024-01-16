@@ -1,0 +1,6002 @@
+[
+  {
+    "jobid": 1,
+    "jobtitle": "Job-1",
+    "maxsalary": 10075.0,
+    "minsalary": 5004.0
+  },
+  {
+    "jobid": 2,
+    "jobtitle": "Job-2",
+    "maxsalary": 10154.0,
+    "minsalary": 5009.0
+  },
+  {
+    "jobid": 3,
+    "jobtitle": "Job-3",
+    "maxsalary": 10202.0,
+    "minsalary": 5012.0
+  },
+  {
+    "jobid": 4,
+    "jobtitle": "Job-3",
+    "maxsalary": 10289.0,
+    "minsalary": 5017.0
+  },
+  {
+    "jobid": 5,
+    "jobtitle": "Job-6",
+    "maxsalary": 10509.0,
+    "minsalary": 5032.0
+  },
+  {
+    "jobid": 6,
+    "jobtitle": "Job-6",
+    "maxsalary": 10522.0,
+    "minsalary": 5033.0
+  },
+  {
+    "jobid": 7,
+    "jobtitle": "Job-6",
+    "maxsalary": 10544.0,
+    "minsalary": 5034.0
+  },
+  {
+    "jobid": 8,
+    "jobtitle": "Job-6",
+    "maxsalary": 10546.0,
+    "minsalary": 5034.0
+  },
+  {
+    "jobid": 9,
+    "jobtitle": "Job-7",
+    "maxsalary": 10623.0,
+    "minsalary": 5039.0
+  },
+  {
+    "jobid": 10,
+    "jobtitle": "Job-9",
+    "maxsalary": 10846.0,
+    "minsalary": 5055.0
+  },
+  {
+    "jobid": 11,
+    "jobtitle": "Job-10",
+    "maxsalary": 10901.0,
+    "minsalary": 5058.0
+  },
+  {
+    "jobid": 12,
+    "jobtitle": "Job-10",
+    "maxsalary": 10902.0,
+    "minsalary": 5059.0
+  },
+  {
+    "jobid": 13,
+    "jobtitle": "Job-10",
+    "maxsalary": 10932.0,
+    "minsalary": 5061.0
+  },
+  {
+    "jobid": 14,
+    "jobtitle": "Job-10",
+    "maxsalary": 10953.0,
+    "minsalary": 5062.0
+  },
+  {
+    "jobid": 15,
+    "jobtitle": "Job-10",
+    "maxsalary": 10968.0,
+    "minsalary": 5063.0
+  },
+  {
+    "jobid": 16,
+    "jobtitle": "Job-10",
+    "maxsalary": 10977.0,
+    "minsalary": 5064.0
+  },
+  {
+    "jobid": 17,
+    "jobtitle": "Job-12",
+    "maxsalary": 11116.0,
+    "minsalary": 5074.0
+  },
+  {
+    "jobid": 18,
+    "jobtitle": "Job-12",
+    "maxsalary": 11127.0,
+    "minsalary": 5075.0
+  },
+  {
+    "jobid": 19,
+    "jobtitle": "Job-14",
+    "maxsalary": 11359.0,
+    "minsalary": 5092.0
+  },
+  {
+    "jobid": 20,
+    "jobtitle": "Job-14",
+    "maxsalary": 11364.0,
+    "minsalary": 5093.0
+  },
+  {
+    "jobid": 21,
+    "jobtitle": "Job-14",
+    "maxsalary": 11384.0,
+    "minsalary": 5094.0
+  },
+  {
+    "jobid": 22,
+    "jobtitle": "Job-15",
+    "maxsalary": 11469.0,
+    "minsalary": 5101.0
+  },
+  {
+    "jobid": 23,
+    "jobtitle": "Job-16",
+    "maxsalary": 11575.0,
+    "minsalary": 5109.0
+  },
+  {
+    "jobid": 24,
+    "jobtitle": "Job-16",
+    "maxsalary": 11588.0,
+    "minsalary": 5110.0
+  },
+  {
+    "jobid": 25,
+    "jobtitle": "Job-17",
+    "maxsalary": 11625.0,
+    "minsalary": 5113.0
+  },
+  {
+    "jobid": 26,
+    "jobtitle": "Job-17",
+    "maxsalary": 11626.0,
+    "minsalary": 5113.0
+  },
+  {
+    "jobid": 27,
+    "jobtitle": "Job-18",
+    "maxsalary": 11713.0,
+    "minsalary": 5120.0
+  },
+  {
+    "jobid": 28,
+    "jobtitle": "Job-19",
+    "maxsalary": 11831.0,
+    "minsalary": 5129.0
+  },
+  {
+    "jobid": 29,
+    "jobtitle": "Job-19",
+    "maxsalary": 11847.0,
+    "minsalary": 5131.0
+  },
+  {
+    "jobid": 30,
+    "jobtitle": "Job-19",
+    "maxsalary": 11849.0,
+    "minsalary": 5131.0
+  },
+  {
+    "jobid": 31,
+    "jobtitle": "Job-19",
+    "maxsalary": 11875.0,
+    "minsalary": 5133.0
+  },
+  {
+    "jobid": 32,
+    "jobtitle": "Job-19",
+    "maxsalary": 11886.0,
+    "minsalary": 5134.0
+  },
+  {
+    "jobid": 33,
+    "jobtitle": "Job-20",
+    "maxsalary": 11915.0,
+    "minsalary": 5136.0
+  },
+  {
+    "jobid": 34,
+    "jobtitle": "Job-20",
+    "maxsalary": 11930.0,
+    "minsalary": 5138.0
+  },
+  {
+    "jobid": 35,
+    "jobtitle": "Job-21",
+    "maxsalary": 12008.0,
+    "minsalary": 5144.0
+  },
+  {
+    "jobid": 36,
+    "jobtitle": "Job-22",
+    "maxsalary": 12146.0,
+    "minsalary": 5156.0
+  },
+  {
+    "jobid": 37,
+    "jobtitle": "Job-22",
+    "maxsalary": 12165.0,
+    "minsalary": 5158.0
+  },
+  {
+    "jobid": 38,
+    "jobtitle": "Job-22",
+    "maxsalary": 12184.0,
+    "minsalary": 5159.0
+  },
+  {
+    "jobid": 39,
+    "jobtitle": "Job-23",
+    "maxsalary": 12284.0,
+    "minsalary": 5168.0
+  },
+  {
+    "jobid": 40,
+    "jobtitle": "Job-23",
+    "maxsalary": 12284.0,
+    "minsalary": 5168.0
+  },
+  {
+    "jobid": 41,
+    "jobtitle": "Job-24",
+    "maxsalary": 12319.0,
+    "minsalary": 5171.0
+  },
+  {
+    "jobid": 42,
+    "jobtitle": "Job-24",
+    "maxsalary": 12372.0,
+    "minsalary": 5176.0
+  },
+  {
+    "jobid": 43,
+    "jobtitle": "Job-25",
+    "maxsalary": 12499.0,
+    "minsalary": 5187.0
+  },
+  {
+    "jobid": 44,
+    "jobtitle": "Job-26",
+    "maxsalary": 12549.0,
+    "minsalary": 5191.0
+  },
+  {
+    "jobid": 45,
+    "jobtitle": "Job-26",
+    "maxsalary": 12584.0,
+    "minsalary": 5195.0
+  },
+  {
+    "jobid": 46,
+    "jobtitle": "Job-27",
+    "maxsalary": 12634.0,
+    "minsalary": 5199.0
+  },
+  {
+    "jobid": 47,
+    "jobtitle": "Job-28",
+    "maxsalary": 12737.0,
+    "minsalary": 5209.0
+  },
+  {
+    "jobid": 48,
+    "jobtitle": "Job-28",
+    "maxsalary": 12796.0,
+    "minsalary": 5214.0
+  },
+  {
+    "jobid": 49,
+    "jobtitle": "Job-29",
+    "maxsalary": 12894.0,
+    "minsalary": 5223.0
+  },
+  {
+    "jobid": 50,
+    "jobtitle": "Job-30",
+    "maxsalary": 12977.0,
+    "minsalary": 5231.0
+  },
+  {
+    "jobid": 51,
+    "jobtitle": "Job-31",
+    "maxsalary": 13037.0,
+    "minsalary": 5237.0
+  },
+  {
+    "jobid": 52,
+    "jobtitle": "Job-31",
+    "maxsalary": 13084.0,
+    "minsalary": 5242.0
+  },
+  {
+    "jobid": 53,
+    "jobtitle": "Job-31",
+    "maxsalary": 13087.0,
+    "minsalary": 5242.0
+  },
+  {
+    "jobid": 54,
+    "jobtitle": "Job-32",
+    "maxsalary": 13143.0,
+    "minsalary": 5247.0
+  },
+  {
+    "jobid": 55,
+    "jobtitle": "Job-32",
+    "maxsalary": 13163.0,
+    "minsalary": 5249.0
+  },
+  {
+    "jobid": 56,
+    "jobtitle": "Job-33",
+    "maxsalary": 13292.0,
+    "minsalary": 5262.0
+  },
+  {
+    "jobid": 57,
+    "jobtitle": "Job-34",
+    "maxsalary": 13355.0,
+    "minsalary": 5268.0
+  },
+  {
+    "jobid": 58,
+    "jobtitle": "Job-34",
+    "maxsalary": 13359.0,
+    "minsalary": 5269.0
+  },
+  {
+    "jobid": 59,
+    "jobtitle": "Job-34",
+    "maxsalary": 13372.0,
+    "minsalary": 5270.0
+  },
+  {
+    "jobid": 60,
+    "jobtitle": "Job-34",
+    "maxsalary": 13396.0,
+    "minsalary": 5272.0
+  },
+  {
+    "jobid": 61,
+    "jobtitle": "Job-35",
+    "maxsalary": 13401.0,
+    "minsalary": 5273.0
+  },
+  {
+    "jobid": 62,
+    "jobtitle": "Job-35",
+    "maxsalary": 13474.0,
+    "minsalary": 5280.0
+  },
+  {
+    "jobid": 63,
+    "jobtitle": "Job-35",
+    "maxsalary": 13492.0,
+    "minsalary": 5282.0
+  },
+  {
+    "jobid": 64,
+    "jobtitle": "Job-36",
+    "maxsalary": 13507.0,
+    "minsalary": 5284.0
+  },
+  {
+    "jobid": 65,
+    "jobtitle": "Job-36",
+    "maxsalary": 13507.0,
+    "minsalary": 5284.0
+  },
+  {
+    "jobid": 66,
+    "jobtitle": "Job-36",
+    "maxsalary": 13563.0,
+    "minsalary": 5289.0
+  },
+  {
+    "jobid": 67,
+    "jobtitle": "Job-36",
+    "maxsalary": 13566.0,
+    "minsalary": 5290.0
+  },
+  {
+    "jobid": 68,
+    "jobtitle": "Job-36",
+    "maxsalary": 13584.0,
+    "minsalary": 5292.0
+  },
+  {
+    "jobid": 69,
+    "jobtitle": "Job-37",
+    "maxsalary": 13610.0,
+    "minsalary": 5294.0
+  },
+  {
+    "jobid": 70,
+    "jobtitle": "Job-37",
+    "maxsalary": 13614.0,
+    "minsalary": 5295.0
+  },
+  {
+    "jobid": 71,
+    "jobtitle": "Job-37",
+    "maxsalary": 13675.0,
+    "minsalary": 5301.0
+  },
+  {
+    "jobid": 72,
+    "jobtitle": "Job-37",
+    "maxsalary": 13684.0,
+    "minsalary": 5302.0
+  },
+  {
+    "jobid": 73,
+    "jobtitle": "Job-37",
+    "maxsalary": 13687.0,
+    "minsalary": 5302.0
+  },
+  {
+    "jobid": 74,
+    "jobtitle": "Job-38",
+    "maxsalary": 13702.0,
+    "minsalary": 5304.0
+  },
+  {
+    "jobid": 75,
+    "jobtitle": "Job-38",
+    "maxsalary": 13769.0,
+    "minsalary": 5311.0
+  },
+  {
+    "jobid": 76,
+    "jobtitle": "Job-39",
+    "maxsalary": 13802.0,
+    "minsalary": 5314.0
+  },
+  {
+    "jobid": 77,
+    "jobtitle": "Job-39",
+    "maxsalary": 13854.0,
+    "minsalary": 5320.0
+  },
+  {
+    "jobid": 78,
+    "jobtitle": "Job-39",
+    "maxsalary": 13898.0,
+    "minsalary": 5325.0
+  },
+  {
+    "jobid": 79,
+    "jobtitle": "Job-40",
+    "maxsalary": 13918.0,
+    "minsalary": 5327.0
+  },
+  {
+    "jobid": 80,
+    "jobtitle": "Job-41",
+    "maxsalary": 14028.0,
+    "minsalary": 5339.0
+  },
+  {
+    "jobid": 81,
+    "jobtitle": "Job-42",
+    "maxsalary": 14108.0,
+    "minsalary": 5347.0
+  },
+  {
+    "jobid": 82,
+    "jobtitle": "Job-42",
+    "maxsalary": 14177.0,
+    "minsalary": 5355.0
+  },
+  {
+    "jobid": 83,
+    "jobtitle": "Job-43",
+    "maxsalary": 14217.0,
+    "minsalary": 5359.0
+  },
+  {
+    "jobid": 84,
+    "jobtitle": "Job-43",
+    "maxsalary": 14261.0,
+    "minsalary": 5364.0
+  },
+  {
+    "jobid": 85,
+    "jobtitle": "Job-45",
+    "maxsalary": 14465.0,
+    "minsalary": 5387.0
+  },
+  {
+    "jobid": 86,
+    "jobtitle": "Job-45",
+    "maxsalary": 14469.0,
+    "minsalary": 5388.0
+  },
+  {
+    "jobid": 87,
+    "jobtitle": "Job-45",
+    "maxsalary": 14490.0,
+    "minsalary": 5390.0
+  },
+  {
+    "jobid": 88,
+    "jobtitle": "Job-46",
+    "maxsalary": 14580.0,
+    "minsalary": 5400.0
+  },
+  {
+    "jobid": 89,
+    "jobtitle": "Job-47",
+    "maxsalary": 14622.0,
+    "minsalary": 5405.0
+  },
+  {
+    "jobid": 90,
+    "jobtitle": "Job-47",
+    "maxsalary": 14642.0,
+    "minsalary": 5407.0
+  },
+  {
+    "jobid": 91,
+    "jobtitle": "Job-47",
+    "maxsalary": 14643.0,
+    "minsalary": 5407.0
+  },
+  {
+    "jobid": 92,
+    "jobtitle": "Job-48",
+    "maxsalary": 14765.0,
+    "minsalary": 5422.0
+  },
+  {
+    "jobid": 93,
+    "jobtitle": "Job-49",
+    "maxsalary": 14881.0,
+    "minsalary": 5435.0
+  },
+  {
+    "jobid": 94,
+    "jobtitle": "Job-49",
+    "maxsalary": 14898.0,
+    "minsalary": 5437.0
+  },
+  {
+    "jobid": 95,
+    "jobtitle": "Job-51",
+    "maxsalary": 15008.0,
+    "minsalary": 5451.0
+  },
+  {
+    "jobid": 96,
+    "jobtitle": "Job-52",
+    "maxsalary": 15128.0,
+    "minsalary": 5465.0
+  },
+  {
+    "jobid": 97,
+    "jobtitle": "Job-52",
+    "maxsalary": 15137.0,
+    "minsalary": 5466.0
+  },
+  {
+    "jobid": 98,
+    "jobtitle": "Job-52",
+    "maxsalary": 15140.0,
+    "minsalary": 5466.0
+  },
+  {
+    "jobid": 99,
+    "jobtitle": "Job-53",
+    "maxsalary": 15261.0,
+    "minsalary": 5481.0
+  },
+  {
+    "jobid": 100,
+    "jobtitle": "Job-54",
+    "maxsalary": 15325.0,
+    "minsalary": 5489.0
+  },
+  {
+    "jobid": 101,
+    "jobtitle": "Job-54",
+    "maxsalary": 15381.0,
+    "minsalary": 5496.0
+  },
+  {
+    "jobid": 102,
+    "jobtitle": "Job-55",
+    "maxsalary": 15435.0,
+    "minsalary": 5503.0
+  },
+  {
+    "jobid": 103,
+    "jobtitle": "Job-55",
+    "maxsalary": 15445.0,
+    "minsalary": 5504.0
+  },
+  {
+    "jobid": 104,
+    "jobtitle": "Job-55",
+    "maxsalary": 15470.0,
+    "minsalary": 5507.0
+  },
+  {
+    "jobid": 105,
+    "jobtitle": "Job-56",
+    "maxsalary": 15520.0,
+    "minsalary": 5514.0
+  },
+  {
+    "jobid": 106,
+    "jobtitle": "Job-56",
+    "maxsalary": 15528.0,
+    "minsalary": 5515.0
+  },
+  {
+    "jobid": 107,
+    "jobtitle": "Job-56",
+    "maxsalary": 15543.0,
+    "minsalary": 5516.0
+  },
+  {
+    "jobid": 108,
+    "jobtitle": "Job-56",
+    "maxsalary": 15570.0,
+    "minsalary": 5520.0
+  },
+  {
+    "jobid": 109,
+    "jobtitle": "Job-56",
+    "maxsalary": 15593.0,
+    "minsalary": 5523.0
+  },
+  {
+    "jobid": 110,
+    "jobtitle": "Job-58",
+    "maxsalary": 15740.0,
+    "minsalary": 5542.0
+  },
+  {
+    "jobid": 111,
+    "jobtitle": "Job-58",
+    "maxsalary": 15774.0,
+    "minsalary": 5546.0
+  },
+  {
+    "jobid": 112,
+    "jobtitle": "Job-59",
+    "maxsalary": 15819.0,
+    "minsalary": 5552.0
+  },
+  {
+    "jobid": 113,
+    "jobtitle": "Job-59",
+    "maxsalary": 15844.0,
+    "minsalary": 5555.0
+  },
+  {
+    "jobid": 114,
+    "jobtitle": "Job-60",
+    "maxsalary": 15911.0,
+    "minsalary": 5564.0
+  },
+  {
+    "jobid": 115,
+    "jobtitle": "Job-60",
+    "maxsalary": 15931.0,
+    "minsalary": 5566.0
+  },
+  {
+    "jobid": 116,
+    "jobtitle": "Job-60",
+    "maxsalary": 15963.0,
+    "minsalary": 5571.0
+  },
+  {
+    "jobid": 117,
+    "jobtitle": "Job-61",
+    "maxsalary": 16015.0,
+    "minsalary": 5578.0
+  },
+  {
+    "jobid": 118,
+    "jobtitle": "Job-61",
+    "maxsalary": 16024.0,
+    "minsalary": 5579.0
+  },
+  {
+    "jobid": 119,
+    "jobtitle": "Job-61",
+    "maxsalary": 16063.0,
+    "minsalary": 5584.0
+  },
+  {
+    "jobid": 120,
+    "jobtitle": "Job-61",
+    "maxsalary": 16066.0,
+    "minsalary": 5584.0
+  },
+  {
+    "jobid": 121,
+    "jobtitle": "Job-61",
+    "maxsalary": 16083.0,
+    "minsalary": 5587.0
+  },
+  {
+    "jobid": 122,
+    "jobtitle": "Job-62",
+    "maxsalary": 16108.0,
+    "minsalary": 5590.0
+  },
+  {
+    "jobid": 123,
+    "jobtitle": "Job-62",
+    "maxsalary": 16198.0,
+    "minsalary": 5602.0
+  },
+  {
+    "jobid": 124,
+    "jobtitle": "Job-63",
+    "maxsalary": 16201.0,
+    "minsalary": 5602.0
+  },
+  {
+    "jobid": 125,
+    "jobtitle": "Job-63",
+    "maxsalary": 16237.0,
+    "minsalary": 5607.0
+  },
+  {
+    "jobid": 126,
+    "jobtitle": "Job-63",
+    "maxsalary": 16245.0,
+    "minsalary": 5608.0
+  },
+  {
+    "jobid": 127,
+    "jobtitle": "Job-63",
+    "maxsalary": 16247.0,
+    "minsalary": 5609.0
+  },
+  {
+    "jobid": 128,
+    "jobtitle": "Job-64",
+    "maxsalary": 16331.0,
+    "minsalary": 5620.0
+  },
+  {
+    "jobid": 129,
+    "jobtitle": "Job-64",
+    "maxsalary": 16373.0,
+    "minsalary": 5626.0
+  },
+  {
+    "jobid": 130,
+    "jobtitle": "Job-68",
+    "maxsalary": 16704.0,
+    "minsalary": 5671.0
+  },
+  {
+    "jobid": 131,
+    "jobtitle": "Job-68",
+    "maxsalary": 16748.0,
+    "minsalary": 5678.0
+  },
+  {
+    "jobid": 132,
+    "jobtitle": "Job-68",
+    "maxsalary": 16766.0,
+    "minsalary": 5680.0
+  },
+  {
+    "jobid": 133,
+    "jobtitle": "Job-68",
+    "maxsalary": 16766.0,
+    "minsalary": 5680.0
+  },
+  {
+    "jobid": 134,
+    "jobtitle": "Job-68",
+    "maxsalary": 16792.0,
+    "minsalary": 5684.0
+  },
+  {
+    "jobid": 135,
+    "jobtitle": "Job-68",
+    "maxsalary": 16795.0,
+    "minsalary": 5684.0
+  },
+  {
+    "jobid": 136,
+    "jobtitle": "Job-69",
+    "maxsalary": 16835.0,
+    "minsalary": 5690.0
+  },
+  {
+    "jobid": 137,
+    "jobtitle": "Job-70",
+    "maxsalary": 16946.0,
+    "minsalary": 5706.0
+  },
+  {
+    "jobid": 138,
+    "jobtitle": "Job-71",
+    "maxsalary": 17017.0,
+    "minsalary": 5716.0
+  },
+  {
+    "jobid": 139,
+    "jobtitle": "Job-71",
+    "maxsalary": 17057.0,
+    "minsalary": 5722.0
+  },
+  {
+    "jobid": 140,
+    "jobtitle": "Job-73",
+    "maxsalary": 17210.0,
+    "minsalary": 5744.0
+  },
+  {
+    "jobid": 141,
+    "jobtitle": "Job-73",
+    "maxsalary": 17274.0,
+    "minsalary": 5753.0
+  },
+  {
+    "jobid": 142,
+    "jobtitle": "Job-74",
+    "maxsalary": 17346.0,
+    "minsalary": 5764.0
+  },
+  {
+    "jobid": 143,
+    "jobtitle": "Job-75",
+    "maxsalary": 17407.0,
+    "minsalary": 5773.0
+  },
+  {
+    "jobid": 144,
+    "jobtitle": "Job-75",
+    "maxsalary": 17421.0,
+    "minsalary": 5775.0
+  },
+  {
+    "jobid": 145,
+    "jobtitle": "Job-75",
+    "maxsalary": 17442.0,
+    "minsalary": 5778.0
+  },
+  {
+    "jobid": 146,
+    "jobtitle": "Job-75",
+    "maxsalary": 17444.0,
+    "minsalary": 5779.0
+  },
+  {
+    "jobid": 147,
+    "jobtitle": "Job-75",
+    "maxsalary": 17488.0,
+    "minsalary": 5785.0
+  },
+  {
+    "jobid": 148,
+    "jobtitle": "Job-76",
+    "maxsalary": 17544.0,
+    "minsalary": 5794.0
+  },
+  {
+    "jobid": 149,
+    "jobtitle": "Job-76",
+    "maxsalary": 17579.0,
+    "minsalary": 5799.0
+  },
+  {
+    "jobid": 150,
+    "jobtitle": "Job-76",
+    "maxsalary": 17592.0,
+    "minsalary": 5801.0
+  },
+  {
+    "jobid": 151,
+    "jobtitle": "Job-77",
+    "maxsalary": 17646.0,
+    "minsalary": 5809.0
+  },
+  {
+    "jobid": 152,
+    "jobtitle": "Job-77",
+    "maxsalary": 17653.0,
+    "minsalary": 5810.0
+  },
+  {
+    "jobid": 153,
+    "jobtitle": "Job-77",
+    "maxsalary": 17668.0,
+    "minsalary": 5812.0
+  },
+  {
+    "jobid": 154,
+    "jobtitle": "Job-78",
+    "maxsalary": 17715.0,
+    "minsalary": 5820.0
+  },
+  {
+    "jobid": 155,
+    "jobtitle": "Job-78",
+    "maxsalary": 17757.0,
+    "minsalary": 5826.0
+  },
+  {
+    "jobid": 156,
+    "jobtitle": "Job-79",
+    "maxsalary": 17801.0,
+    "minsalary": 5833.0
+  },
+  {
+    "jobid": 157,
+    "jobtitle": "Job-79",
+    "maxsalary": 17811.0,
+    "minsalary": 5834.0
+  },
+  {
+    "jobid": 158,
+    "jobtitle": "Job-80",
+    "maxsalary": 17917.0,
+    "minsalary": 5851.0
+  },
+  {
+    "jobid": 159,
+    "jobtitle": "Job-80",
+    "maxsalary": 17921.0,
+    "minsalary": 5851.0
+  },
+  {
+    "jobid": 160,
+    "jobtitle": "Job-80",
+    "maxsalary": 17940.0,
+    "minsalary": 5854.0
+  },
+  {
+    "jobid": 161,
+    "jobtitle": "Job-81",
+    "maxsalary": 18039.0,
+    "minsalary": 5870.0
+  },
+  {
+    "jobid": 162,
+    "jobtitle": "Job-81",
+    "maxsalary": 18088.0,
+    "minsalary": 5877.0
+  },
+  {
+    "jobid": 163,
+    "jobtitle": "Job-82",
+    "maxsalary": 18144.0,
+    "minsalary": 5886.0
+  },
+  {
+    "jobid": 164,
+    "jobtitle": "Job-82",
+    "maxsalary": 18156.0,
+    "minsalary": 5888.0
+  },
+  {
+    "jobid": 165,
+    "jobtitle": "Job-82",
+    "maxsalary": 18181.0,
+    "minsalary": 5892.0
+  },
+  {
+    "jobid": 166,
+    "jobtitle": "Job-83",
+    "maxsalary": 18210.0,
+    "minsalary": 5897.0
+  },
+  {
+    "jobid": 167,
+    "jobtitle": "Job-83",
+    "maxsalary": 18261.0,
+    "minsalary": 5905.0
+  },
+  {
+    "jobid": 168,
+    "jobtitle": "Job-84",
+    "maxsalary": 18301.0,
+    "minsalary": 5911.0
+  },
+  {
+    "jobid": 169,
+    "jobtitle": "Job-84",
+    "maxsalary": 18306.0,
+    "minsalary": 5912.0
+  },
+  {
+    "jobid": 170,
+    "jobtitle": "Job-85",
+    "maxsalary": 18408.0,
+    "minsalary": 5928.0
+  },
+  {
+    "jobid": 171,
+    "jobtitle": "Job-85",
+    "maxsalary": 18466.0,
+    "minsalary": 5938.0
+  },
+  {
+    "jobid": 172,
+    "jobtitle": "Job-86",
+    "maxsalary": 18508.0,
+    "minsalary": 5944.0
+  },
+  {
+    "jobid": 173,
+    "jobtitle": "Job-87",
+    "maxsalary": 18631.0,
+    "minsalary": 5964.0
+  },
+  {
+    "jobid": 174,
+    "jobtitle": "Job-88",
+    "maxsalary": 18733.0,
+    "minsalary": 5981.0
+  },
+  {
+    "jobid": 175,
+    "jobtitle": "Job-88",
+    "maxsalary": 18744.0,
+    "minsalary": 5983.0
+  },
+  {
+    "jobid": 176,
+    "jobtitle": "Job-89",
+    "maxsalary": 18845.0,
+    "minsalary": 6000.0
+  },
+  {
+    "jobid": 177,
+    "jobtitle": "Job-89",
+    "maxsalary": 18852.0,
+    "minsalary": 6001.0
+  },
+  {
+    "jobid": 178,
+    "jobtitle": "Job-89",
+    "maxsalary": 18896.0,
+    "minsalary": 6008.0
+  },
+  {
+    "jobid": 179,
+    "jobtitle": "Job-89",
+    "maxsalary": 18898.0,
+    "minsalary": 6009.0
+  },
+  {
+    "jobid": 180,
+    "jobtitle": "Job-90",
+    "maxsalary": 18920.0,
+    "minsalary": 6012.0
+  },
+  {
+    "jobid": 181,
+    "jobtitle": "Job-91",
+    "maxsalary": 19021.0,
+    "minsalary": 6029.0
+  },
+  {
+    "jobid": 182,
+    "jobtitle": "Job-92",
+    "maxsalary": 19104.0,
+    "minsalary": 6043.0
+  },
+  {
+    "jobid": 183,
+    "jobtitle": "Job-92",
+    "maxsalary": 19157.0,
+    "minsalary": 6052.0
+  },
+  {
+    "jobid": 184,
+    "jobtitle": "Job-92",
+    "maxsalary": 19184.0,
+    "minsalary": 6057.0
+  },
+  {
+    "jobid": 185,
+    "jobtitle": "Job-92",
+    "maxsalary": 19198.0,
+    "minsalary": 6059.0
+  },
+  {
+    "jobid": 186,
+    "jobtitle": "Job-93",
+    "maxsalary": 19289.0,
+    "minsalary": 6075.0
+  },
+  {
+    "jobid": 187,
+    "jobtitle": "Job-93",
+    "maxsalary": 19294.0,
+    "minsalary": 6075.0
+  },
+  {
+    "jobid": 188,
+    "jobtitle": "Job-94",
+    "maxsalary": 19397.0,
+    "minsalary": 6093.0
+  },
+  {
+    "jobid": 189,
+    "jobtitle": "Job-95",
+    "maxsalary": 19419.0,
+    "minsalary": 6097.0
+  },
+  {
+    "jobid": 190,
+    "jobtitle": "Job-95",
+    "maxsalary": 19448.0,
+    "minsalary": 6102.0
+  },
+  {
+    "jobid": 191,
+    "jobtitle": "Job-95",
+    "maxsalary": 19467.0,
+    "minsalary": 6105.0
+  },
+  {
+    "jobid": 192,
+    "jobtitle": "Job-95",
+    "maxsalary": 19488.0,
+    "minsalary": 6109.0
+  },
+  {
+    "jobid": 193,
+    "jobtitle": "Job-96",
+    "maxsalary": 19551.0,
+    "minsalary": 6120.0
+  },
+  {
+    "jobid": 194,
+    "jobtitle": "Job-96",
+    "maxsalary": 19584.0,
+    "minsalary": 6126.0
+  },
+  {
+    "jobid": 195,
+    "jobtitle": "Job-97",
+    "maxsalary": 19609.0,
+    "minsalary": 6130.0
+  },
+  {
+    "jobid": 196,
+    "jobtitle": "Job-97",
+    "maxsalary": 19695.0,
+    "minsalary": 6145.0
+  },
+  {
+    "jobid": 197,
+    "jobtitle": "Job-97",
+    "maxsalary": 19699.0,
+    "minsalary": 6146.0
+  },
+  {
+    "jobid": 198,
+    "jobtitle": "Job-98",
+    "maxsalary": 19718.0,
+    "minsalary": 6149.0
+  },
+  {
+    "jobid": 199,
+    "jobtitle": "Job-98",
+    "maxsalary": 19760.0,
+    "minsalary": 6157.0
+  },
+  {
+    "jobid": 200,
+    "jobtitle": "Job-98",
+    "maxsalary": 19781.0,
+    "minsalary": 6160.0
+  },
+  {
+    "jobid": 201,
+    "jobtitle": "Job-99",
+    "maxsalary": 19844.0,
+    "minsalary": 6172.0
+  },
+  {
+    "jobid": 202,
+    "jobtitle": "Job-99",
+    "maxsalary": 19861.0,
+    "minsalary": 6175.0
+  },
+  {
+    "jobid": 203,
+    "jobtitle": "Job-100",
+    "maxsalary": 19933.0,
+    "minsalary": 6188.0
+  },
+  {
+    "jobid": 204,
+    "jobtitle": "Job-100",
+    "maxsalary": 19938.0,
+    "minsalary": 6188.0
+  },
+  {
+    "jobid": 205,
+    "jobtitle": "Job-100",
+    "maxsalary": 19940.0,
+    "minsalary": 6189.0
+  },
+  {
+    "jobid": 206,
+    "jobtitle": "Job-100",
+    "maxsalary": 19967.0,
+    "minsalary": 6194.0
+  },
+  {
+    "jobid": 207,
+    "jobtitle": "Job-100",
+    "maxsalary": 19993.0,
+    "minsalary": 6198.0
+  },
+  {
+    "jobid": 208,
+    "jobtitle": "Job-101",
+    "maxsalary": 20069.0,
+    "minsalary": 6212.0
+  },
+  {
+    "jobid": 209,
+    "jobtitle": "Job-102",
+    "maxsalary": 20177.0,
+    "minsalary": 6232.0
+  },
+  {
+    "jobid": 210,
+    "jobtitle": "Job-103",
+    "maxsalary": 20234.0,
+    "minsalary": 6242.0
+  },
+  {
+    "jobid": 211,
+    "jobtitle": "Job-103",
+    "maxsalary": 20273.0,
+    "minsalary": 6249.0
+  },
+  {
+    "jobid": 212,
+    "jobtitle": "Job-103",
+    "maxsalary": 20292.0,
+    "minsalary": 6253.0
+  },
+  {
+    "jobid": 213,
+    "jobtitle": "Job-104",
+    "maxsalary": 20374.0,
+    "minsalary": 6268.0
+  },
+  {
+    "jobid": 214,
+    "jobtitle": "Job-105",
+    "maxsalary": 20422.0,
+    "minsalary": 6277.0
+  },
+  {
+    "jobid": 215,
+    "jobtitle": "Job-105",
+    "maxsalary": 20457.0,
+    "minsalary": 6283.0
+  },
+  {
+    "jobid": 216,
+    "jobtitle": "Job-106",
+    "maxsalary": 20531.0,
+    "minsalary": 6297.0
+  },
+  {
+    "jobid": 217,
+    "jobtitle": "Job-107",
+    "maxsalary": 20602.0,
+    "minsalary": 6310.0
+  },
+  {
+    "jobid": 218,
+    "jobtitle": "Job-107",
+    "maxsalary": 20653.0,
+    "minsalary": 6320.0
+  },
+  {
+    "jobid": 219,
+    "jobtitle": "Job-108",
+    "maxsalary": 20768.0,
+    "minsalary": 6341.0
+  },
+  {
+    "jobid": 220,
+    "jobtitle": "Job-109",
+    "maxsalary": 20813.0,
+    "minsalary": 6350.0
+  },
+  {
+    "jobid": 221,
+    "jobtitle": "Job-109",
+    "maxsalary": 20815.0,
+    "minsalary": 6350.0
+  },
+  {
+    "jobid": 222,
+    "jobtitle": "Job-109",
+    "maxsalary": 20831.0,
+    "minsalary": 6353.0
+  },
+  {
+    "jobid": 223,
+    "jobtitle": "Job-110",
+    "maxsalary": 20914.0,
+    "minsalary": 6369.0
+  },
+  {
+    "jobid": 224,
+    "jobtitle": "Job-110",
+    "maxsalary": 20941.0,
+    "minsalary": 6374.0
+  },
+  {
+    "jobid": 225,
+    "jobtitle": "Job-110",
+    "maxsalary": 20942.0,
+    "minsalary": 6374.0
+  },
+  {
+    "jobid": 226,
+    "jobtitle": "Job-111",
+    "maxsalary": 21017.0,
+    "minsalary": 6389.0
+  },
+  {
+    "jobid": 227,
+    "jobtitle": "Job-111",
+    "maxsalary": 21068.0,
+    "minsalary": 6399.0
+  },
+  {
+    "jobid": 228,
+    "jobtitle": "Job-112",
+    "maxsalary": 21109.0,
+    "minsalary": 6407.0
+  },
+  {
+    "jobid": 229,
+    "jobtitle": "Job-112",
+    "maxsalary": 21129.0,
+    "minsalary": 6410.0
+  },
+  {
+    "jobid": 230,
+    "jobtitle": "Job-112",
+    "maxsalary": 21190.0,
+    "minsalary": 6422.0
+  },
+  {
+    "jobid": 231,
+    "jobtitle": "Job-113",
+    "maxsalary": 21245.0,
+    "minsalary": 6433.0
+  },
+  {
+    "jobid": 232,
+    "jobtitle": "Job-113",
+    "maxsalary": 21246.0,
+    "minsalary": 6433.0
+  },
+  {
+    "jobid": 233,
+    "jobtitle": "Job-113",
+    "maxsalary": 21287.0,
+    "minsalary": 6441.0
+  },
+  {
+    "jobid": 234,
+    "jobtitle": "Job-115",
+    "maxsalary": 21422.0,
+    "minsalary": 6468.0
+  },
+  {
+    "jobid": 235,
+    "jobtitle": "Job-115",
+    "maxsalary": 21459.0,
+    "minsalary": 6475.0
+  },
+  {
+    "jobid": 236,
+    "jobtitle": "Job-115",
+    "maxsalary": 21472.0,
+    "minsalary": 6478.0
+  },
+  {
+    "jobid": 237,
+    "jobtitle": "Job-116",
+    "maxsalary": 21524.0,
+    "minsalary": 6488.0
+  },
+  {
+    "jobid": 238,
+    "jobtitle": "Job-116",
+    "maxsalary": 21575.0,
+    "minsalary": 6498.0
+  },
+  {
+    "jobid": 239,
+    "jobtitle": "Job-117",
+    "maxsalary": 21601.0,
+    "minsalary": 6503.0
+  },
+  {
+    "jobid": 240,
+    "jobtitle": "Job-117",
+    "maxsalary": 21611.0,
+    "minsalary": 6505.0
+  },
+  {
+    "jobid": 241,
+    "jobtitle": "Job-117",
+    "maxsalary": 21679.0,
+    "minsalary": 6519.0
+  },
+  {
+    "jobid": 242,
+    "jobtitle": "Job-117",
+    "maxsalary": 21694.0,
+    "minsalary": 6522.0
+  },
+  {
+    "jobid": 243,
+    "jobtitle": "Job-117",
+    "maxsalary": 21699.0,
+    "minsalary": 6523.0
+  },
+  {
+    "jobid": 244,
+    "jobtitle": "Job-118",
+    "maxsalary": 21714.0,
+    "minsalary": 6526.0
+  },
+  {
+    "jobid": 245,
+    "jobtitle": "Job-118",
+    "maxsalary": 21777.0,
+    "minsalary": 6538.0
+  },
+  {
+    "jobid": 246,
+    "jobtitle": "Job-118",
+    "maxsalary": 21795.0,
+    "minsalary": 6542.0
+  },
+  {
+    "jobid": 247,
+    "jobtitle": "Job-120",
+    "maxsalary": 21951.0,
+    "minsalary": 6574.0
+  },
+  {
+    "jobid": 248,
+    "jobtitle": "Job-121",
+    "maxsalary": 22060.0,
+    "minsalary": 6596.0
+  },
+  {
+    "jobid": 249,
+    "jobtitle": "Job-122",
+    "maxsalary": 22154.0,
+    "minsalary": 6615.0
+  },
+  {
+    "jobid": 250,
+    "jobtitle": "Job-123",
+    "maxsalary": 22238.0,
+    "minsalary": 6632.0
+  },
+  {
+    "jobid": 251,
+    "jobtitle": "Job-123",
+    "maxsalary": 22297.0,
+    "minsalary": 6645.0
+  },
+  {
+    "jobid": 252,
+    "jobtitle": "Job-124",
+    "maxsalary": 22364.0,
+    "minsalary": 6659.0
+  },
+  {
+    "jobid": 253,
+    "jobtitle": "Job-124",
+    "maxsalary": 22385.0,
+    "minsalary": 6663.0
+  },
+  {
+    "jobid": 254,
+    "jobtitle": "Job-125",
+    "maxsalary": 22487.0,
+    "minsalary": 6684.0
+  },
+  {
+    "jobid": 255,
+    "jobtitle": "Job-125",
+    "maxsalary": 22497.0,
+    "minsalary": 6687.0
+  },
+  {
+    "jobid": 256,
+    "jobtitle": "Job-126",
+    "maxsalary": 22569.0,
+    "minsalary": 6702.0
+  },
+  {
+    "jobid": 257,
+    "jobtitle": "Job-126",
+    "maxsalary": 22593.0,
+    "minsalary": 6707.0
+  },
+  {
+    "jobid": 258,
+    "jobtitle": "Job-127",
+    "maxsalary": 22652.0,
+    "minsalary": 6719.0
+  },
+  {
+    "jobid": 259,
+    "jobtitle": "Job-127",
+    "maxsalary": 22698.0,
+    "minsalary": 6729.0
+  },
+  {
+    "jobid": 260,
+    "jobtitle": "Job-128",
+    "maxsalary": 22709.0,
+    "minsalary": 6731.0
+  },
+  {
+    "jobid": 261,
+    "jobtitle": "Job-128",
+    "maxsalary": 22773.0,
+    "minsalary": 6745.0
+  },
+  {
+    "jobid": 262,
+    "jobtitle": "Job-130",
+    "maxsalary": 22900.0,
+    "minsalary": 6772.0
+  },
+  {
+    "jobid": 263,
+    "jobtitle": "Job-130",
+    "maxsalary": 22907.0,
+    "minsalary": 6773.0
+  },
+  {
+    "jobid": 264,
+    "jobtitle": "Job-130",
+    "maxsalary": 22988.0,
+    "minsalary": 6791.0
+  },
+  {
+    "jobid": 265,
+    "jobtitle": "Job-131",
+    "maxsalary": 23026.0,
+    "minsalary": 6799.0
+  },
+  {
+    "jobid": 266,
+    "jobtitle": "Job-131",
+    "maxsalary": 23050.0,
+    "minsalary": 6804.0
+  },
+  {
+    "jobid": 267,
+    "jobtitle": "Job-131",
+    "maxsalary": 23095.0,
+    "minsalary": 6814.0
+  },
+  {
+    "jobid": 268,
+    "jobtitle": "Job-132",
+    "maxsalary": 23110.0,
+    "minsalary": 6817.0
+  },
+  {
+    "jobid": 269,
+    "jobtitle": "Job-133",
+    "maxsalary": 23214.0,
+    "minsalary": 6840.0
+  },
+  {
+    "jobid": 270,
+    "jobtitle": "Job-133",
+    "maxsalary": 23224.0,
+    "minsalary": 6842.0
+  },
+  {
+    "jobid": 271,
+    "jobtitle": "Job-134",
+    "maxsalary": 23309.0,
+    "minsalary": 6861.0
+  },
+  {
+    "jobid": 272,
+    "jobtitle": "Job-134",
+    "maxsalary": 23336.0,
+    "minsalary": 6867.0
+  },
+  {
+    "jobid": 273,
+    "jobtitle": "Job-135",
+    "maxsalary": 23473.0,
+    "minsalary": 6897.0
+  },
+  {
+    "jobid": 274,
+    "jobtitle": "Job-135",
+    "maxsalary": 23482.0,
+    "minsalary": 6899.0
+  },
+  {
+    "jobid": 275,
+    "jobtitle": "Job-136",
+    "maxsalary": 23585.0,
+    "minsalary": 6922.0
+  },
+  {
+    "jobid": 276,
+    "jobtitle": "Job-137",
+    "maxsalary": 23648.0,
+    "minsalary": 6936.0
+  },
+  {
+    "jobid": 277,
+    "jobtitle": "Job-138",
+    "maxsalary": 23760.0,
+    "minsalary": 6961.0
+  },
+  {
+    "jobid": 278,
+    "jobtitle": "Job-138",
+    "maxsalary": 23774.0,
+    "minsalary": 6964.0
+  },
+  {
+    "jobid": 279,
+    "jobtitle": "Job-138",
+    "maxsalary": 23785.0,
+    "minsalary": 6967.0
+  },
+  {
+    "jobid": 280,
+    "jobtitle": "Job-139",
+    "maxsalary": 23831.0,
+    "minsalary": 6977.0
+  },
+  {
+    "jobid": 281,
+    "jobtitle": "Job-141",
+    "maxsalary": 24022.0,
+    "minsalary": 7021.0
+  },
+  {
+    "jobid": 282,
+    "jobtitle": "Job-141",
+    "maxsalary": 24042.0,
+    "minsalary": 7025.0
+  },
+  {
+    "jobid": 283,
+    "jobtitle": "Job-141",
+    "maxsalary": 24075.0,
+    "minsalary": 7033.0
+  },
+  {
+    "jobid": 284,
+    "jobtitle": "Job-141",
+    "maxsalary": 24088.0,
+    "minsalary": 7036.0
+  },
+  {
+    "jobid": 285,
+    "jobtitle": "Job-141",
+    "maxsalary": 24099.0,
+    "minsalary": 7038.0
+  },
+  {
+    "jobid": 286,
+    "jobtitle": "Job-142",
+    "maxsalary": 24178.0,
+    "minsalary": 7056.0
+  },
+  {
+    "jobid": 287,
+    "jobtitle": "Job-142",
+    "maxsalary": 24194.0,
+    "minsalary": 7060.0
+  },
+  {
+    "jobid": 288,
+    "jobtitle": "Job-143",
+    "maxsalary": 24224.0,
+    "minsalary": 7067.0
+  },
+  {
+    "jobid": 289,
+    "jobtitle": "Job-143",
+    "maxsalary": 24253.0,
+    "minsalary": 7074.0
+  },
+  {
+    "jobid": 290,
+    "jobtitle": "Job-143",
+    "maxsalary": 24285.0,
+    "minsalary": 7081.0
+  },
+  {
+    "jobid": 291,
+    "jobtitle": "Job-144",
+    "maxsalary": 24367.0,
+    "minsalary": 7100.0
+  },
+  {
+    "jobid": 292,
+    "jobtitle": "Job-145",
+    "maxsalary": 24454.0,
+    "minsalary": 7120.0
+  },
+  {
+    "jobid": 293,
+    "jobtitle": "Job-145",
+    "maxsalary": 24476.0,
+    "minsalary": 7126.0
+  },
+  {
+    "jobid": 294,
+    "jobtitle": "Job-145",
+    "maxsalary": 24479.0,
+    "minsalary": 7126.0
+  },
+  {
+    "jobid": 295,
+    "jobtitle": "Job-145",
+    "maxsalary": 24498.0,
+    "minsalary": 7131.0
+  },
+  {
+    "jobid": 296,
+    "jobtitle": "Job-146",
+    "maxsalary": 24581.0,
+    "minsalary": 7150.0
+  },
+  {
+    "jobid": 297,
+    "jobtitle": "Job-147",
+    "maxsalary": 24607.0,
+    "minsalary": 7156.0
+  },
+  {
+    "jobid": 298,
+    "jobtitle": "Job-147",
+    "maxsalary": 24624.0,
+    "minsalary": 7160.0
+  },
+  {
+    "jobid": 299,
+    "jobtitle": "Job-148",
+    "maxsalary": 24710.0,
+    "minsalary": 7181.0
+  },
+  {
+    "jobid": 300,
+    "jobtitle": "Job-148",
+    "maxsalary": 24764.0,
+    "minsalary": 7193.0
+  },
+  {
+    "jobid": 301,
+    "jobtitle": "Job-149",
+    "maxsalary": 24828.0,
+    "minsalary": 7208.0
+  },
+  {
+    "jobid": 302,
+    "jobtitle": "Job-149",
+    "maxsalary": 24828.0,
+    "minsalary": 7209.0
+  },
+  {
+    "jobid": 303,
+    "jobtitle": "Job-150",
+    "maxsalary": 24943.0,
+    "minsalary": 7236.0
+  },
+  {
+    "jobid": 304,
+    "jobtitle": "Job-150",
+    "maxsalary": 24962.0,
+    "minsalary": 7240.0
+  },
+  {
+    "jobid": 305,
+    "jobtitle": "Job-150",
+    "maxsalary": 24981.0,
+    "minsalary": 7245.0
+  },
+  {
+    "jobid": 306,
+    "jobtitle": "Job-151",
+    "maxsalary": 25004.0,
+    "minsalary": 7251.0
+  },
+  {
+    "jobid": 307,
+    "jobtitle": "Job-151",
+    "maxsalary": 25095.0,
+    "minsalary": 7272.0
+  },
+  {
+    "jobid": 308,
+    "jobtitle": "Job-152",
+    "maxsalary": 25106.0,
+    "minsalary": 7275.0
+  },
+  {
+    "jobid": 309,
+    "jobtitle": "Job-152",
+    "maxsalary": 25176.0,
+    "minsalary": 7292.0
+  },
+  {
+    "jobid": 310,
+    "jobtitle": "Job-152",
+    "maxsalary": 25181.0,
+    "minsalary": 7293.0
+  },
+  {
+    "jobid": 311,
+    "jobtitle": "Job-153",
+    "maxsalary": 25230.0,
+    "minsalary": 7305.0
+  },
+  {
+    "jobid": 312,
+    "jobtitle": "Job-153",
+    "maxsalary": 25285.0,
+    "minsalary": 7318.0
+  },
+  {
+    "jobid": 313,
+    "jobtitle": "Job-153",
+    "maxsalary": 25292.0,
+    "minsalary": 7320.0
+  },
+  {
+    "jobid": 314,
+    "jobtitle": "Job-155",
+    "maxsalary": 25422.0,
+    "minsalary": 7352.0
+  },
+  {
+    "jobid": 315,
+    "jobtitle": "Job-156",
+    "maxsalary": 25532.0,
+    "minsalary": 7379.0
+  },
+  {
+    "jobid": 316,
+    "jobtitle": "Job-157",
+    "maxsalary": 25608.0,
+    "minsalary": 7398.0
+  },
+  {
+    "jobid": 317,
+    "jobtitle": "Job-157",
+    "maxsalary": 25616.0,
+    "minsalary": 7400.0
+  },
+  {
+    "jobid": 318,
+    "jobtitle": "Job-157",
+    "maxsalary": 25685.0,
+    "minsalary": 7417.0
+  },
+  {
+    "jobid": 319,
+    "jobtitle": "Job-158",
+    "maxsalary": 25729.0,
+    "minsalary": 7428.0
+  },
+  {
+    "jobid": 320,
+    "jobtitle": "Job-158",
+    "maxsalary": 25774.0,
+    "minsalary": 7439.0
+  },
+  {
+    "jobid": 321,
+    "jobtitle": "Job-159",
+    "maxsalary": 25806.0,
+    "minsalary": 7447.0
+  },
+  {
+    "jobid": 322,
+    "jobtitle": "Job-159",
+    "maxsalary": 25846.0,
+    "minsalary": 7457.0
+  },
+  {
+    "jobid": 323,
+    "jobtitle": "Job-161",
+    "maxsalary": 26040.0,
+    "minsalary": 7506.0
+  },
+  {
+    "jobid": 324,
+    "jobtitle": "Job-161",
+    "maxsalary": 26079.0,
+    "minsalary": 7516.0
+  },
+  {
+    "jobid": 325,
+    "jobtitle": "Job-162",
+    "maxsalary": 26186.0,
+    "minsalary": 7543.0
+  },
+  {
+    "jobid": 326,
+    "jobtitle": "Job-162",
+    "maxsalary": 26196.0,
+    "minsalary": 7545.0
+  },
+  {
+    "jobid": 327,
+    "jobtitle": "Job-163",
+    "maxsalary": 26265.0,
+    "minsalary": 7563.0
+  },
+  {
+    "jobid": 328,
+    "jobtitle": "Job-163",
+    "maxsalary": 26288.0,
+    "minsalary": 7569.0
+  },
+  {
+    "jobid": 329,
+    "jobtitle": "Job-164",
+    "maxsalary": 26366.0,
+    "minsalary": 7589.0
+  },
+  {
+    "jobid": 330,
+    "jobtitle": "Job-164",
+    "maxsalary": 26379.0,
+    "minsalary": 7592.0
+  },
+  {
+    "jobid": 331,
+    "jobtitle": "Job-165",
+    "maxsalary": 26468.0,
+    "minsalary": 7615.0
+  },
+  {
+    "jobid": 332,
+    "jobtitle": "Job-165",
+    "maxsalary": 26495.0,
+    "minsalary": 7622.0
+  },
+  {
+    "jobid": 333,
+    "jobtitle": "Job-166",
+    "maxsalary": 26535.0,
+    "minsalary": 7632.0
+  },
+  {
+    "jobid": 334,
+    "jobtitle": "Job-166",
+    "maxsalary": 26536.0,
+    "minsalary": 7632.0
+  },
+  {
+    "jobid": 335,
+    "jobtitle": "Job-166",
+    "maxsalary": 26549.0,
+    "minsalary": 7636.0
+  },
+  {
+    "jobid": 336,
+    "jobtitle": "Job-167",
+    "maxsalary": 26655.0,
+    "minsalary": 7663.0
+  },
+  {
+    "jobid": 337,
+    "jobtitle": "Job-168",
+    "maxsalary": 26752.0,
+    "minsalary": 7689.0
+  },
+  {
+    "jobid": 338,
+    "jobtitle": "Job-169",
+    "maxsalary": 26807.0,
+    "minsalary": 7703.0
+  },
+  {
+    "jobid": 339,
+    "jobtitle": "Job-169",
+    "maxsalary": 26816.0,
+    "minsalary": 7705.0
+  },
+  {
+    "jobid": 340,
+    "jobtitle": "Job-169",
+    "maxsalary": 26879.0,
+    "minsalary": 7722.0
+  },
+  {
+    "jobid": 341,
+    "jobtitle": "Job-170",
+    "maxsalary": 26908.0,
+    "minsalary": 7729.0
+  },
+  {
+    "jobid": 342,
+    "jobtitle": "Job-171",
+    "maxsalary": 27008.0,
+    "minsalary": 7756.0
+  },
+  {
+    "jobid": 343,
+    "jobtitle": "Job-171",
+    "maxsalary": 27009.0,
+    "minsalary": 7756.0
+  },
+  {
+    "jobid": 344,
+    "jobtitle": "Job-171",
+    "maxsalary": 27023.0,
+    "minsalary": 7760.0
+  },
+  {
+    "jobid": 345,
+    "jobtitle": "Job-172",
+    "maxsalary": 27141.0,
+    "minsalary": 7791.0
+  },
+  {
+    "jobid": 346,
+    "jobtitle": "Job-173",
+    "maxsalary": 27214.0,
+    "minsalary": 7810.0
+  },
+  {
+    "jobid": 347,
+    "jobtitle": "Job-173",
+    "maxsalary": 27232.0,
+    "minsalary": 7815.0
+  },
+  {
+    "jobid": 348,
+    "jobtitle": "Job-174",
+    "maxsalary": 27335.0,
+    "minsalary": 7843.0
+  },
+  {
+    "jobid": 349,
+    "jobtitle": "Job-174",
+    "maxsalary": 27370.0,
+    "minsalary": 7852.0
+  },
+  {
+    "jobid": 350,
+    "jobtitle": "Job-174",
+    "maxsalary": 27380.0,
+    "minsalary": 7855.0
+  },
+  {
+    "jobid": 351,
+    "jobtitle": "Job-174",
+    "maxsalary": 27386.0,
+    "minsalary": 7856.0
+  },
+  {
+    "jobid": 352,
+    "jobtitle": "Job-175",
+    "maxsalary": 27410.0,
+    "minsalary": 7863.0
+  },
+  {
+    "jobid": 353,
+    "jobtitle": "Job-175",
+    "maxsalary": 27446.0,
+    "minsalary": 7873.0
+  },
+  {
+    "jobid": 354,
+    "jobtitle": "Job-175",
+    "maxsalary": 27449.0,
+    "minsalary": 7873.0
+  },
+  {
+    "jobid": 355,
+    "jobtitle": "Job-176",
+    "maxsalary": 27528.0,
+    "minsalary": 7895.0
+  },
+  {
+    "jobid": 356,
+    "jobtitle": "Job-176",
+    "maxsalary": 27563.0,
+    "minsalary": 7904.0
+  },
+  {
+    "jobid": 357,
+    "jobtitle": "Job-177",
+    "maxsalary": 27645.0,
+    "minsalary": 7926.0
+  },
+  {
+    "jobid": 358,
+    "jobtitle": "Job-177",
+    "maxsalary": 27686.0,
+    "minsalary": 7937.0
+  },
+  {
+    "jobid": 359,
+    "jobtitle": "Job-178",
+    "maxsalary": 27784.0,
+    "minsalary": 7964.0
+  },
+  {
+    "jobid": 360,
+    "jobtitle": "Job-179",
+    "maxsalary": 27810.0,
+    "minsalary": 7971.0
+  },
+  {
+    "jobid": 361,
+    "jobtitle": "Job-179",
+    "maxsalary": 27883.0,
+    "minsalary": 7991.0
+  },
+  {
+    "jobid": 362,
+    "jobtitle": "Job-179",
+    "maxsalary": 27890.0,
+    "minsalary": 7993.0
+  },
+  {
+    "jobid": 363,
+    "jobtitle": "Job-180",
+    "maxsalary": 27987.0,
+    "minsalary": 8020.0
+  },
+  {
+    "jobid": 364,
+    "jobtitle": "Job-181",
+    "maxsalary": 28029.0,
+    "minsalary": 8032.0
+  },
+  {
+    "jobid": 365,
+    "jobtitle": "Job-181",
+    "maxsalary": 28039.0,
+    "minsalary": 8034.0
+  },
+  {
+    "jobid": 366,
+    "jobtitle": "Job-181",
+    "maxsalary": 28077.0,
+    "minsalary": 8045.0
+  },
+  {
+    "jobid": 367,
+    "jobtitle": "Job-181",
+    "maxsalary": 28080.0,
+    "minsalary": 8046.0
+  },
+  {
+    "jobid": 368,
+    "jobtitle": "Job-181",
+    "maxsalary": 28082.0,
+    "minsalary": 8046.0
+  },
+  {
+    "jobid": 369,
+    "jobtitle": "Job-182",
+    "maxsalary": 28137.0,
+    "minsalary": 8061.0
+  },
+  {
+    "jobid": 370,
+    "jobtitle": "Job-182",
+    "maxsalary": 28147.0,
+    "minsalary": 8064.0
+  },
+  {
+    "jobid": 371,
+    "jobtitle": "Job-183",
+    "maxsalary": 28235.0,
+    "minsalary": 8089.0
+  },
+  {
+    "jobid": 372,
+    "jobtitle": "Job-183",
+    "maxsalary": 28261.0,
+    "minsalary": 8096.0
+  },
+  {
+    "jobid": 373,
+    "jobtitle": "Job-183",
+    "maxsalary": 28278.0,
+    "minsalary": 8101.0
+  },
+  {
+    "jobid": 374,
+    "jobtitle": "Job-184",
+    "maxsalary": 28304.0,
+    "minsalary": 8108.0
+  },
+  {
+    "jobid": 375,
+    "jobtitle": "Job-184",
+    "maxsalary": 28318.0,
+    "minsalary": 8112.0
+  },
+  {
+    "jobid": 376,
+    "jobtitle": "Job-185",
+    "maxsalary": 28407.0,
+    "minsalary": 8137.0
+  },
+  {
+    "jobid": 377,
+    "jobtitle": "Job-185",
+    "maxsalary": 28477.0,
+    "minsalary": 8157.0
+  },
+  {
+    "jobid": 378,
+    "jobtitle": "Job-187",
+    "maxsalary": 28603.0,
+    "minsalary": 8192.0
+  },
+  {
+    "jobid": 379,
+    "jobtitle": "Job-187",
+    "maxsalary": 28644.0,
+    "minsalary": 8204.0
+  },
+  {
+    "jobid": 380,
+    "jobtitle": "Job-188",
+    "maxsalary": 28770.0,
+    "minsalary": 8240.0
+  },
+  {
+    "jobid": 381,
+    "jobtitle": "Job-189",
+    "maxsalary": 28826.0,
+    "minsalary": 8256.0
+  },
+  {
+    "jobid": 382,
+    "jobtitle": "Job-189",
+    "maxsalary": 28836.0,
+    "minsalary": 8258.0
+  },
+  {
+    "jobid": 383,
+    "jobtitle": "Job-189",
+    "maxsalary": 28892.0,
+    "minsalary": 8274.0
+  },
+  {
+    "jobid": 384,
+    "jobtitle": "Job-191",
+    "maxsalary": 29024.0,
+    "minsalary": 8312.0
+  },
+  {
+    "jobid": 385,
+    "jobtitle": "Job-192",
+    "maxsalary": 29143.0,
+    "minsalary": 8347.0
+  },
+  {
+    "jobid": 386,
+    "jobtitle": "Job-192",
+    "maxsalary": 29199.0,
+    "minsalary": 8363.0
+  },
+  {
+    "jobid": 387,
+    "jobtitle": "Job-193",
+    "maxsalary": 29201.0,
+    "minsalary": 8364.0
+  },
+  {
+    "jobid": 388,
+    "jobtitle": "Job-193",
+    "maxsalary": 29257.0,
+    "minsalary": 8380.0
+  },
+  {
+    "jobid": 389,
+    "jobtitle": "Job-194",
+    "maxsalary": 29385.0,
+    "minsalary": 8417.0
+  },
+  {
+    "jobid": 390,
+    "jobtitle": "Job-195",
+    "maxsalary": 29446.0,
+    "minsalary": 8435.0
+  },
+  {
+    "jobid": 391,
+    "jobtitle": "Job-195",
+    "maxsalary": 29465.0,
+    "minsalary": 8441.0
+  },
+  {
+    "jobid": 392,
+    "jobtitle": "Job-196",
+    "maxsalary": 29513.0,
+    "minsalary": 8455.0
+  },
+  {
+    "jobid": 393,
+    "jobtitle": "Job-196",
+    "maxsalary": 29534.0,
+    "minsalary": 8461.0
+  },
+  {
+    "jobid": 394,
+    "jobtitle": "Job-196",
+    "maxsalary": 29574.0,
+    "minsalary": 8473.0
+  },
+  {
+    "jobid": 395,
+    "jobtitle": "Job-196",
+    "maxsalary": 29590.0,
+    "minsalary": 8478.0
+  },
+  {
+    "jobid": 396,
+    "jobtitle": "Job-197",
+    "maxsalary": 29641.0,
+    "minsalary": 8493.0
+  },
+  {
+    "jobid": 397,
+    "jobtitle": "Job-198",
+    "maxsalary": 29790.0,
+    "minsalary": 8537.0
+  },
+  {
+    "jobid": 398,
+    "jobtitle": "Job-199",
+    "maxsalary": 29891.0,
+    "minsalary": 8567.0
+  },
+  {
+    "jobid": 399,
+    "jobtitle": "Job-200",
+    "maxsalary": 29905.0,
+    "minsalary": 8571.0
+  },
+  {
+    "jobid": 400,
+    "jobtitle": "Job-200",
+    "maxsalary": 29931.0,
+    "minsalary": 8579.0
+  },
+  {
+    "jobid": 401,
+    "jobtitle": "Job-200",
+    "maxsalary": 29943.0,
+    "minsalary": 8582.0
+  },
+  {
+    "jobid": 402,
+    "jobtitle": "Job-201",
+    "maxsalary": 30001.0,
+    "minsalary": 8600.0
+  },
+  {
+    "jobid": 403,
+    "jobtitle": "Job-201",
+    "maxsalary": 30085.0,
+    "minsalary": 8625.0
+  },
+  {
+    "jobid": 404,
+    "jobtitle": "Job-201",
+    "maxsalary": 30089.0,
+    "minsalary": 8626.0
+  },
+  {
+    "jobid": 405,
+    "jobtitle": "Job-203",
+    "maxsalary": 30272.0,
+    "minsalary": 8682.0
+  },
+  {
+    "jobid": 406,
+    "jobtitle": "Job-203",
+    "maxsalary": 30275.0,
+    "minsalary": 8683.0
+  },
+  {
+    "jobid": 407,
+    "jobtitle": "Job-204",
+    "maxsalary": 30307.0,
+    "minsalary": 8692.0
+  },
+  {
+    "jobid": 408,
+    "jobtitle": "Job-204",
+    "maxsalary": 30321.0,
+    "minsalary": 8697.0
+  },
+  {
+    "jobid": 409,
+    "jobtitle": "Job-204",
+    "maxsalary": 30344.0,
+    "minsalary": 8704.0
+  },
+  {
+    "jobid": 410,
+    "jobtitle": "Job-205",
+    "maxsalary": 30408.0,
+    "minsalary": 8723.0
+  },
+  {
+    "jobid": 411,
+    "jobtitle": "Job-205",
+    "maxsalary": 30413.0,
+    "minsalary": 8725.0
+  },
+  {
+    "jobid": 412,
+    "jobtitle": "Job-205",
+    "maxsalary": 30451.0,
+    "minsalary": 8736.0
+  },
+  {
+    "jobid": 413,
+    "jobtitle": "Job-205",
+    "maxsalary": 30476.0,
+    "minsalary": 8744.0
+  },
+  {
+    "jobid": 414,
+    "jobtitle": "Job-206",
+    "maxsalary": 30567.0,
+    "minsalary": 8772.0
+  },
+  {
+    "jobid": 415,
+    "jobtitle": "Job-207",
+    "maxsalary": 30605.0,
+    "minsalary": 8783.0
+  },
+  {
+    "jobid": 416,
+    "jobtitle": "Job-207",
+    "maxsalary": 30631.0,
+    "minsalary": 8791.0
+  },
+  {
+    "jobid": 417,
+    "jobtitle": "Job-207",
+    "maxsalary": 30635.0,
+    "minsalary": 8793.0
+  },
+  {
+    "jobid": 418,
+    "jobtitle": "Job-208",
+    "maxsalary": 30743.0,
+    "minsalary": 8826.0
+  },
+  {
+    "jobid": 419,
+    "jobtitle": "Job-208",
+    "maxsalary": 30777.0,
+    "minsalary": 8836.0
+  },
+  {
+    "jobid": 420,
+    "jobtitle": "Job-209",
+    "maxsalary": 30839.0,
+    "minsalary": 8856.0
+  },
+  {
+    "jobid": 421,
+    "jobtitle": "Job-209",
+    "maxsalary": 30889.0,
+    "minsalary": 8871.0
+  },
+  {
+    "jobid": 422,
+    "jobtitle": "Job-210",
+    "maxsalary": 30901.0,
+    "minsalary": 8875.0
+  },
+  {
+    "jobid": 423,
+    "jobtitle": "Job-210",
+    "maxsalary": 30936.0,
+    "minsalary": 8886.0
+  },
+  {
+    "jobid": 424,
+    "jobtitle": "Job-210",
+    "maxsalary": 30958.0,
+    "minsalary": 8893.0
+  },
+  {
+    "jobid": 425,
+    "jobtitle": "Job-211",
+    "maxsalary": 31038.0,
+    "minsalary": 8917.0
+  },
+  {
+    "jobid": 426,
+    "jobtitle": "Job-211",
+    "maxsalary": 31051.0,
+    "minsalary": 8922.0
+  },
+  {
+    "jobid": 427,
+    "jobtitle": "Job-211",
+    "maxsalary": 31057.0,
+    "minsalary": 8923.0
+  },
+  {
+    "jobid": 428,
+    "jobtitle": "Job-212",
+    "maxsalary": 31131.0,
+    "minsalary": 8947.0
+  },
+  {
+    "jobid": 429,
+    "jobtitle": "Job-213",
+    "maxsalary": 31234.0,
+    "minsalary": 8979.0
+  },
+  {
+    "jobid": 430,
+    "jobtitle": "Job-213",
+    "maxsalary": 31285.0,
+    "minsalary": 8995.0
+  },
+  {
+    "jobid": 431,
+    "jobtitle": "Job-214",
+    "maxsalary": 31313.0,
+    "minsalary": 9004.0
+  },
+  {
+    "jobid": 432,
+    "jobtitle": "Job-214",
+    "maxsalary": 31322.0,
+    "minsalary": 9007.0
+  },
+  {
+    "jobid": 433,
+    "jobtitle": "Job-214",
+    "maxsalary": 31323.0,
+    "minsalary": 9007.0
+  },
+  {
+    "jobid": 434,
+    "jobtitle": "Job-214",
+    "maxsalary": 31342.0,
+    "minsalary": 9013.0
+  },
+  {
+    "jobid": 435,
+    "jobtitle": "Job-214",
+    "maxsalary": 31372.0,
+    "minsalary": 9022.0
+  },
+  {
+    "jobid": 436,
+    "jobtitle": "Job-214",
+    "maxsalary": 31391.0,
+    "minsalary": 9028.0
+  },
+  {
+    "jobid": 437,
+    "jobtitle": "Job-216",
+    "maxsalary": 31519.0,
+    "minsalary": 9069.0
+  },
+  {
+    "jobid": 438,
+    "jobtitle": "Job-216",
+    "maxsalary": 31531.0,
+    "minsalary": 9073.0
+  },
+  {
+    "jobid": 439,
+    "jobtitle": "Job-217",
+    "maxsalary": 31612.0,
+    "minsalary": 9099.0
+  },
+  {
+    "jobid": 440,
+    "jobtitle": "Job-217",
+    "maxsalary": 31628.0,
+    "minsalary": 9104.0
+  },
+  {
+    "jobid": 441,
+    "jobtitle": "Job-219",
+    "maxsalary": 31879.0,
+    "minsalary": 9185.0
+  },
+  {
+    "jobid": 442,
+    "jobtitle": "Job-220",
+    "maxsalary": 31910.0,
+    "minsalary": 9194.0
+  },
+  {
+    "jobid": 443,
+    "jobtitle": "Job-221",
+    "maxsalary": 32017.0,
+    "minsalary": 9229.0
+  },
+  {
+    "jobid": 444,
+    "jobtitle": "Job-221",
+    "maxsalary": 32031.0,
+    "minsalary": 9234.0
+  },
+  {
+    "jobid": 445,
+    "jobtitle": "Job-221",
+    "maxsalary": 32097.0,
+    "minsalary": 9255.0
+  },
+  {
+    "jobid": 446,
+    "jobtitle": "Job-224",
+    "maxsalary": 32306.0,
+    "minsalary": 9323.0
+  },
+  {
+    "jobid": 447,
+    "jobtitle": "Job-224",
+    "maxsalary": 32336.0,
+    "minsalary": 9333.0
+  },
+  {
+    "jobid": 448,
+    "jobtitle": "Job-225",
+    "maxsalary": 32459.0,
+    "minsalary": 9374.0
+  },
+  {
+    "jobid": 449,
+    "jobtitle": "Job-226",
+    "maxsalary": 32539.0,
+    "minsalary": 9400.0
+  },
+  {
+    "jobid": 450,
+    "jobtitle": "Job-226",
+    "maxsalary": 32557.0,
+    "minsalary": 9406.0
+  },
+  {
+    "jobid": 451,
+    "jobtitle": "Job-226",
+    "maxsalary": 32593.0,
+    "minsalary": 9418.0
+  },
+  {
+    "jobid": 452,
+    "jobtitle": "Job-227",
+    "maxsalary": 32600.0,
+    "minsalary": 9420.0
+  },
+  {
+    "jobid": 453,
+    "jobtitle": "Job-227",
+    "maxsalary": 32676.0,
+    "minsalary": 9445.0
+  },
+  {
+    "jobid": 454,
+    "jobtitle": "Job-228",
+    "maxsalary": 32786.0,
+    "minsalary": 9482.0
+  },
+  {
+    "jobid": 455,
+    "jobtitle": "Job-229",
+    "maxsalary": 32806.0,
+    "minsalary": 9489.0
+  },
+  {
+    "jobid": 456,
+    "jobtitle": "Job-229",
+    "maxsalary": 32826.0,
+    "minsalary": 9495.0
+  },
+  {
+    "jobid": 457,
+    "jobtitle": "Job-229",
+    "maxsalary": 32838.0,
+    "minsalary": 9499.0
+  },
+  {
+    "jobid": 458,
+    "jobtitle": "Job-229",
+    "maxsalary": 32871.0,
+    "minsalary": 9510.0
+  },
+  {
+    "jobid": 459,
+    "jobtitle": "Job-231",
+    "maxsalary": 33014.0,
+    "minsalary": 9558.0
+  },
+  {
+    "jobid": 460,
+    "jobtitle": "Job-231",
+    "maxsalary": 33027.0,
+    "minsalary": 9563.0
+  },
+  {
+    "jobid": 461,
+    "jobtitle": "Job-231",
+    "maxsalary": 33057.0,
+    "minsalary": 9573.0
+  },
+  {
+    "jobid": 462,
+    "jobtitle": "Job-231",
+    "maxsalary": 33067.0,
+    "minsalary": 9576.0
+  },
+  {
+    "jobid": 463,
+    "jobtitle": "Job-231",
+    "maxsalary": 33075.0,
+    "minsalary": 9579.0
+  },
+  {
+    "jobid": 464,
+    "jobtitle": "Job-232",
+    "maxsalary": 33102.0,
+    "minsalary": 9588.0
+  },
+  {
+    "jobid": 465,
+    "jobtitle": "Job-232",
+    "maxsalary": 33153.0,
+    "minsalary": 9605.0
+  },
+  {
+    "jobid": 466,
+    "jobtitle": "Job-232",
+    "maxsalary": 33165.0,
+    "minsalary": 9609.0
+  },
+  {
+    "jobid": 467,
+    "jobtitle": "Job-233",
+    "maxsalary": 33211.0,
+    "minsalary": 9625.0
+  },
+  {
+    "jobid": 468,
+    "jobtitle": "Job-233",
+    "maxsalary": 33225.0,
+    "minsalary": 9629.0
+  },
+  {
+    "jobid": 469,
+    "jobtitle": "Job-233",
+    "maxsalary": 33242.0,
+    "minsalary": 9635.0
+  },
+  {
+    "jobid": 470,
+    "jobtitle": "Job-233",
+    "maxsalary": 33265.0,
+    "minsalary": 9643.0
+  },
+  {
+    "jobid": 471,
+    "jobtitle": "Job-235",
+    "maxsalary": 33473.0,
+    "minsalary": 9714.0
+  },
+  {
+    "jobid": 472,
+    "jobtitle": "Job-236",
+    "maxsalary": 33523.0,
+    "minsalary": 9731.0
+  },
+  {
+    "jobid": 473,
+    "jobtitle": "Job-236",
+    "maxsalary": 33551.0,
+    "minsalary": 9741.0
+  },
+  {
+    "jobid": 474,
+    "jobtitle": "Job-236",
+    "maxsalary": 33584.0,
+    "minsalary": 9752.0
+  },
+  {
+    "jobid": 475,
+    "jobtitle": "Job-236",
+    "maxsalary": 33593.0,
+    "minsalary": 9755.0
+  },
+  {
+    "jobid": 476,
+    "jobtitle": "Job-237",
+    "maxsalary": 33666.0,
+    "minsalary": 9780.0
+  },
+  {
+    "jobid": 477,
+    "jobtitle": "Job-238",
+    "maxsalary": 33745.0,
+    "minsalary": 9807.0
+  },
+  {
+    "jobid": 478,
+    "jobtitle": "Job-238",
+    "maxsalary": 33790.0,
+    "minsalary": 9823.0
+  },
+  {
+    "jobid": 479,
+    "jobtitle": "Job-238",
+    "maxsalary": 33796.0,
+    "minsalary": 9825.0
+  },
+  {
+    "jobid": 480,
+    "jobtitle": "Job-239",
+    "maxsalary": 33818.0,
+    "minsalary": 9832.0
+  },
+  {
+    "jobid": 481,
+    "jobtitle": "Job-239",
+    "maxsalary": 33838.0,
+    "minsalary": 9839.0
+  },
+  {
+    "jobid": 482,
+    "jobtitle": "Job-240",
+    "maxsalary": 33993.0,
+    "minsalary": 9893.0
+  },
+  {
+    "jobid": 483,
+    "jobtitle": "Job-241",
+    "maxsalary": 34046.0,
+    "minsalary": 9912.0
+  },
+  {
+    "jobid": 484,
+    "jobtitle": "Job-241",
+    "maxsalary": 34094.0,
+    "minsalary": 9928.0
+  },
+  {
+    "jobid": 485,
+    "jobtitle": "Job-242",
+    "maxsalary": 34152.0,
+    "minsalary": 9949.0
+  },
+  {
+    "jobid": 486,
+    "jobtitle": "Job-243",
+    "maxsalary": 34213.0,
+    "minsalary": 9970.0
+  },
+  {
+    "jobid": 487,
+    "jobtitle": "Job-243",
+    "maxsalary": 34286.0,
+    "minsalary": 9996.0
+  },
+  {
+    "jobid": 488,
+    "jobtitle": "Job-245",
+    "maxsalary": 34482.0,
+    "minsalary": 10065.0
+  },
+  {
+    "jobid": 489,
+    "jobtitle": "Job-245",
+    "maxsalary": 34487.0,
+    "minsalary": 10067.0
+  },
+  {
+    "jobid": 490,
+    "jobtitle": "Job-245",
+    "maxsalary": 34491.0,
+    "minsalary": 10068.0
+  },
+  {
+    "jobid": 491,
+    "jobtitle": "Job-246",
+    "maxsalary": 34567.0,
+    "minsalary": 10095.0
+  },
+  {
+    "jobid": 492,
+    "jobtitle": "Job-246",
+    "maxsalary": 34577.0,
+    "minsalary": 10098.0
+  },
+  {
+    "jobid": 493,
+    "jobtitle": "Job-246",
+    "maxsalary": 34588.0,
+    "minsalary": 10102.0
+  },
+  {
+    "jobid": 494,
+    "jobtitle": "Job-246",
+    "maxsalary": 34592.0,
+    "minsalary": 10104.0
+  },
+  {
+    "jobid": 495,
+    "jobtitle": "Job-247",
+    "maxsalary": 34616.0,
+    "minsalary": 10112.0
+  },
+  {
+    "jobid": 496,
+    "jobtitle": "Job-247",
+    "maxsalary": 34620.0,
+    "minsalary": 10114.0
+  },
+  {
+    "jobid": 497,
+    "jobtitle": "Job-247",
+    "maxsalary": 34620.0,
+    "minsalary": 10114.0
+  },
+  {
+    "jobid": 498,
+    "jobtitle": "Job-248",
+    "maxsalary": 34710.0,
+    "minsalary": 10146.0
+  },
+  {
+    "jobid": 499,
+    "jobtitle": "Job-248",
+    "maxsalary": 34795.0,
+    "minsalary": 10176.0
+  },
+  {
+    "jobid": 500,
+    "jobtitle": "Job-249",
+    "maxsalary": 34812.0,
+    "minsalary": 10182.0
+  },
+  {
+    "jobid": 501,
+    "jobtitle": "Job-249",
+    "maxsalary": 34882.0,
+    "minsalary": 10207.0
+  },
+  {
+    "jobid": 502,
+    "jobtitle": "Job-250",
+    "maxsalary": 34952.0,
+    "minsalary": 10232.0
+  },
+  {
+    "jobid": 503,
+    "jobtitle": "Job-250",
+    "maxsalary": 34994.0,
+    "minsalary": 10247.0
+  },
+  {
+    "jobid": 504,
+    "jobtitle": "Job-252",
+    "maxsalary": 35112.0,
+    "minsalary": 10290.0
+  },
+  {
+    "jobid": 505,
+    "jobtitle": "Job-252",
+    "maxsalary": 35135.0,
+    "minsalary": 10298.0
+  },
+  {
+    "jobid": 506,
+    "jobtitle": "Job-252",
+    "maxsalary": 35183.0,
+    "minsalary": 10316.0
+  },
+  {
+    "jobid": 507,
+    "jobtitle": "Job-252",
+    "maxsalary": 35190.0,
+    "minsalary": 10318.0
+  },
+  {
+    "jobid": 508,
+    "jobtitle": "Job-253",
+    "maxsalary": 35263.0,
+    "minsalary": 10345.0
+  },
+  {
+    "jobid": 509,
+    "jobtitle": "Job-253",
+    "maxsalary": 35280.0,
+    "minsalary": 10351.0
+  },
+  {
+    "jobid": 510,
+    "jobtitle": "Job-254",
+    "maxsalary": 35314.0,
+    "minsalary": 10363.0
+  },
+  {
+    "jobid": 511,
+    "jobtitle": "Job-254",
+    "maxsalary": 35323.0,
+    "minsalary": 10366.0
+  },
+  {
+    "jobid": 512,
+    "jobtitle": "Job-255",
+    "maxsalary": 35415.0,
+    "minsalary": 10400.0
+  },
+  {
+    "jobid": 513,
+    "jobtitle": "Job-255",
+    "maxsalary": 35478.0,
+    "minsalary": 10423.0
+  },
+  {
+    "jobid": 514,
+    "jobtitle": "Job-256",
+    "maxsalary": 35551.0,
+    "minsalary": 10450.0
+  },
+  {
+    "jobid": 515,
+    "jobtitle": "Job-256",
+    "maxsalary": 35560.0,
+    "minsalary": 10453.0
+  },
+  {
+    "jobid": 516,
+    "jobtitle": "Job-256",
+    "maxsalary": 35587.0,
+    "minsalary": 10463.0
+  },
+  {
+    "jobid": 517,
+    "jobtitle": "Job-257",
+    "maxsalary": 35667.0,
+    "minsalary": 10492.0
+  },
+  {
+    "jobid": 518,
+    "jobtitle": "Job-257",
+    "maxsalary": 35674.0,
+    "minsalary": 10495.0
+  },
+  {
+    "jobid": 519,
+    "jobtitle": "Job-258",
+    "maxsalary": 35733.0,
+    "minsalary": 10517.0
+  },
+  {
+    "jobid": 520,
+    "jobtitle": "Job-258",
+    "maxsalary": 35736.0,
+    "minsalary": 10518.0
+  },
+  {
+    "jobid": 521,
+    "jobtitle": "Job-258",
+    "maxsalary": 35783.0,
+    "minsalary": 10535.0
+  },
+  {
+    "jobid": 522,
+    "jobtitle": "Job-259",
+    "maxsalary": 35841.0,
+    "minsalary": 10557.0
+  },
+  {
+    "jobid": 523,
+    "jobtitle": "Job-261",
+    "maxsalary": 36006.0,
+    "minsalary": 10618.0
+  },
+  {
+    "jobid": 524,
+    "jobtitle": "Job-261",
+    "maxsalary": 36007.0,
+    "minsalary": 10618.0
+  },
+  {
+    "jobid": 525,
+    "jobtitle": "Job-261",
+    "maxsalary": 36039.0,
+    "minsalary": 10630.0
+  },
+  {
+    "jobid": 526,
+    "jobtitle": "Job-261",
+    "maxsalary": 36086.0,
+    "minsalary": 10648.0
+  },
+  {
+    "jobid": 527,
+    "jobtitle": "Job-262",
+    "maxsalary": 36108.0,
+    "minsalary": 10656.0
+  },
+  {
+    "jobid": 528,
+    "jobtitle": "Job-262",
+    "maxsalary": 36124.0,
+    "minsalary": 10662.0
+  },
+  {
+    "jobid": 529,
+    "jobtitle": "Job-262",
+    "maxsalary": 36135.0,
+    "minsalary": 10666.0
+  },
+  {
+    "jobid": 530,
+    "jobtitle": "Job-262",
+    "maxsalary": 36179.0,
+    "minsalary": 10682.0
+  },
+  {
+    "jobid": 531,
+    "jobtitle": "Job-262",
+    "maxsalary": 36180.0,
+    "minsalary": 10683.0
+  },
+  {
+    "jobid": 532,
+    "jobtitle": "Job-263",
+    "maxsalary": 36261.0,
+    "minsalary": 10713.0
+  },
+  {
+    "jobid": 533,
+    "jobtitle": "Job-263",
+    "maxsalary": 36282.0,
+    "minsalary": 10721.0
+  },
+  {
+    "jobid": 534,
+    "jobtitle": "Job-264",
+    "maxsalary": 36302.0,
+    "minsalary": 10728.0
+  },
+  {
+    "jobid": 535,
+    "jobtitle": "Job-264",
+    "maxsalary": 36304.0,
+    "minsalary": 10729.0
+  },
+  {
+    "jobid": 536,
+    "jobtitle": "Job-264",
+    "maxsalary": 36370.0,
+    "minsalary": 10754.0
+  },
+  {
+    "jobid": 537,
+    "jobtitle": "Job-264",
+    "maxsalary": 36374.0,
+    "minsalary": 10756.0
+  },
+  {
+    "jobid": 538,
+    "jobtitle": "Job-264",
+    "maxsalary": 36386.0,
+    "minsalary": 10760.0
+  },
+  {
+    "jobid": 539,
+    "jobtitle": "Job-265",
+    "maxsalary": 36411.0,
+    "minsalary": 10770.0
+  },
+  {
+    "jobid": 540,
+    "jobtitle": "Job-266",
+    "maxsalary": 36524.0,
+    "minsalary": 10812.0
+  },
+  {
+    "jobid": 541,
+    "jobtitle": "Job-266",
+    "maxsalary": 36572.0,
+    "minsalary": 10830.0
+  },
+  {
+    "jobid": 542,
+    "jobtitle": "Job-267",
+    "maxsalary": 36607.0,
+    "minsalary": 10844.0
+  },
+  {
+    "jobid": 543,
+    "jobtitle": "Job-267",
+    "maxsalary": 36617.0,
+    "minsalary": 10848.0
+  },
+  {
+    "jobid": 544,
+    "jobtitle": "Job-267",
+    "maxsalary": 36631.0,
+    "minsalary": 10853.0
+  },
+  {
+    "jobid": 545,
+    "jobtitle": "Job-267",
+    "maxsalary": 36633.0,
+    "minsalary": 10854.0
+  },
+  {
+    "jobid": 546,
+    "jobtitle": "Job-267",
+    "maxsalary": 36679.0,
+    "minsalary": 10871.0
+  },
+  {
+    "jobid": 547,
+    "jobtitle": "Job-267",
+    "maxsalary": 36696.0,
+    "minsalary": 10877.0
+  },
+  {
+    "jobid": 548,
+    "jobtitle": "Job-268",
+    "maxsalary": 36709.0,
+    "minsalary": 10882.0
+  },
+  {
+    "jobid": 549,
+    "jobtitle": "Job-268",
+    "maxsalary": 36782.0,
+    "minsalary": 10910.0
+  },
+  {
+    "jobid": 550,
+    "jobtitle": "Job-268",
+    "maxsalary": 36799.0,
+    "minsalary": 10917.0
+  },
+  {
+    "jobid": 551,
+    "jobtitle": "Job-270",
+    "maxsalary": 36934.0,
+    "minsalary": 10968.0
+  },
+  {
+    "jobid": 552,
+    "jobtitle": "Job-271",
+    "maxsalary": 37006.0,
+    "minsalary": 10996.0
+  },
+  {
+    "jobid": 553,
+    "jobtitle": "Job-271",
+    "maxsalary": 37044.0,
+    "minsalary": 11010.0
+  },
+  {
+    "jobid": 554,
+    "jobtitle": "Job-271",
+    "maxsalary": 37089.0,
+    "minsalary": 11028.0
+  },
+  {
+    "jobid": 555,
+    "jobtitle": "Job-273",
+    "maxsalary": 37240.0,
+    "minsalary": 11086.0
+  },
+  {
+    "jobid": 556,
+    "jobtitle": "Job-273",
+    "maxsalary": 37262.0,
+    "minsalary": 11095.0
+  },
+  {
+    "jobid": 557,
+    "jobtitle": "Job-274",
+    "maxsalary": 37342.0,
+    "minsalary": 11126.0
+  },
+  {
+    "jobid": 558,
+    "jobtitle": "Job-274",
+    "maxsalary": 37357.0,
+    "minsalary": 11131.0
+  },
+  {
+    "jobid": 559,
+    "jobtitle": "Job-276",
+    "maxsalary": 37506.0,
+    "minsalary": 11189.0
+  },
+  {
+    "jobid": 560,
+    "jobtitle": "Job-276",
+    "maxsalary": 37582.0,
+    "minsalary": 11219.0
+  },
+  {
+    "jobid": 561,
+    "jobtitle": "Job-277",
+    "maxsalary": 37629.0,
+    "minsalary": 11237.0
+  },
+  {
+    "jobid": 562,
+    "jobtitle": "Job-277",
+    "maxsalary": 37690.0,
+    "minsalary": 11261.0
+  },
+  {
+    "jobid": 563,
+    "jobtitle": "Job-278",
+    "maxsalary": 37715.0,
+    "minsalary": 11271.0
+  },
+  {
+    "jobid": 564,
+    "jobtitle": "Job-279",
+    "maxsalary": 37800.0,
+    "minsalary": 11305.0
+  },
+  {
+    "jobid": 565,
+    "jobtitle": "Job-279",
+    "maxsalary": 37821.0,
+    "minsalary": 11313.0
+  },
+  {
+    "jobid": 566,
+    "jobtitle": "Job-279",
+    "maxsalary": 37856.0,
+    "minsalary": 11327.0
+  },
+  {
+    "jobid": 567,
+    "jobtitle": "Job-280",
+    "maxsalary": 37965.0,
+    "minsalary": 11370.0
+  },
+  {
+    "jobid": 568,
+    "jobtitle": "Job-280",
+    "maxsalary": 37982.0,
+    "minsalary": 11377.0
+  },
+  {
+    "jobid": 569,
+    "jobtitle": "Job-282",
+    "maxsalary": 38112.0,
+    "minsalary": 11428.0
+  },
+  {
+    "jobid": 570,
+    "jobtitle": "Job-282",
+    "maxsalary": 38132.0,
+    "minsalary": 11436.0
+  },
+  {
+    "jobid": 571,
+    "jobtitle": "Job-282",
+    "maxsalary": 38148.0,
+    "minsalary": 11442.0
+  },
+  {
+    "jobid": 572,
+    "jobtitle": "Job-283",
+    "maxsalary": 38215.0,
+    "minsalary": 11469.0
+  },
+  {
+    "jobid": 573,
+    "jobtitle": "Job-283",
+    "maxsalary": 38226.0,
+    "minsalary": 11473.0
+  },
+  {
+    "jobid": 574,
+    "jobtitle": "Job-284",
+    "maxsalary": 38313.0,
+    "minsalary": 11508.0
+  },
+  {
+    "jobid": 575,
+    "jobtitle": "Job-284",
+    "maxsalary": 38328.0,
+    "minsalary": 11514.0
+  },
+  {
+    "jobid": 576,
+    "jobtitle": "Job-284",
+    "maxsalary": 38341.0,
+    "minsalary": 11519.0
+  },
+  {
+    "jobid": 577,
+    "jobtitle": "Job-285",
+    "maxsalary": 38495.0,
+    "minsalary": 11581.0
+  },
+  {
+    "jobid": 578,
+    "jobtitle": "Job-286",
+    "maxsalary": 38545.0,
+    "minsalary": 11601.0
+  },
+  {
+    "jobid": 579,
+    "jobtitle": "Job-286",
+    "maxsalary": 38565.0,
+    "minsalary": 11609.0
+  },
+  {
+    "jobid": 580,
+    "jobtitle": "Job-286",
+    "maxsalary": 38588.0,
+    "minsalary": 11619.0
+  },
+  {
+    "jobid": 581,
+    "jobtitle": "Job-286",
+    "maxsalary": 38592.0,
+    "minsalary": 11620.0
+  },
+  {
+    "jobid": 582,
+    "jobtitle": "Job-288",
+    "maxsalary": 38749.0,
+    "minsalary": 11684.0
+  },
+  {
+    "jobid": 583,
+    "jobtitle": "Job-289",
+    "maxsalary": 38871.0,
+    "minsalary": 11733.0
+  },
+  {
+    "jobid": 584,
+    "jobtitle": "Job-291",
+    "maxsalary": 39016.0,
+    "minsalary": 11792.0
+  },
+  {
+    "jobid": 585,
+    "jobtitle": "Job-291",
+    "maxsalary": 39085.0,
+    "minsalary": 11820.0
+  },
+  {
+    "jobid": 586,
+    "jobtitle": "Job-291",
+    "maxsalary": 39096.0,
+    "minsalary": 11825.0
+  },
+  {
+    "jobid": 587,
+    "jobtitle": "Job-292",
+    "maxsalary": 39102.0,
+    "minsalary": 11827.0
+  },
+  {
+    "jobid": 588,
+    "jobtitle": "Job-292",
+    "maxsalary": 39143.0,
+    "minsalary": 11844.0
+  },
+  {
+    "jobid": 589,
+    "jobtitle": "Job-293",
+    "maxsalary": 39217.0,
+    "minsalary": 11874.0
+  },
+  {
+    "jobid": 590,
+    "jobtitle": "Job-293",
+    "maxsalary": 39223.0,
+    "minsalary": 11877.0
+  },
+  {
+    "jobid": 591,
+    "jobtitle": "Job-293",
+    "maxsalary": 39270.0,
+    "minsalary": 11896.0
+  },
+  {
+    "jobid": 592,
+    "jobtitle": "Job-293",
+    "maxsalary": 39274.0,
+    "minsalary": 11898.0
+  },
+  {
+    "jobid": 593,
+    "jobtitle": "Job-295",
+    "maxsalary": 39483.0,
+    "minsalary": 11984.0
+  },
+  {
+    "jobid": 594,
+    "jobtitle": "Job-297",
+    "maxsalary": 39620.0,
+    "minsalary": 12041.0
+  },
+  {
+    "jobid": 595,
+    "jobtitle": "Job-297",
+    "maxsalary": 39639.0,
+    "minsalary": 12049.0
+  },
+  {
+    "jobid": 596,
+    "jobtitle": "Job-298",
+    "maxsalary": 39757.0,
+    "minsalary": 12098.0
+  },
+  {
+    "jobid": 597,
+    "jobtitle": "Job-298",
+    "maxsalary": 39793.0,
+    "minsalary": 12113.0
+  },
+  {
+    "jobid": 598,
+    "jobtitle": "Job-299",
+    "maxsalary": 39804.0,
+    "minsalary": 12118.0
+  },
+  {
+    "jobid": 599,
+    "jobtitle": "Job-300",
+    "maxsalary": 39903.0,
+    "minsalary": 12159.0
+  },
+  {
+    "jobid": 600,
+    "jobtitle": "Job-300",
+    "maxsalary": 39956.0,
+    "minsalary": 12181.0
+  },
+  {
+    "jobid": 601,
+    "jobtitle": "Job-300",
+    "maxsalary": 39958.0,
+    "minsalary": 12182.0
+  },
+  {
+    "jobid": 602,
+    "jobtitle": "Job-300",
+    "maxsalary": 39970.0,
+    "minsalary": 12187.0
+  },
+  {
+    "jobid": 603,
+    "jobtitle": "Job-301",
+    "maxsalary": 40083.0,
+    "minsalary": 12234.0
+  },
+  {
+    "jobid": 604,
+    "jobtitle": "Job-301",
+    "maxsalary": 40099.0,
+    "minsalary": 12241.0
+  },
+  {
+    "jobid": 605,
+    "jobtitle": "Job-302",
+    "maxsalary": 40105.0,
+    "minsalary": 12244.0
+  },
+  {
+    "jobid": 606,
+    "jobtitle": "Job-302",
+    "maxsalary": 40131.0,
+    "minsalary": 12255.0
+  },
+  {
+    "jobid": 607,
+    "jobtitle": "Job-302",
+    "maxsalary": 40156.0,
+    "minsalary": 12265.0
+  },
+  {
+    "jobid": 608,
+    "jobtitle": "Job-302",
+    "maxsalary": 40189.0,
+    "minsalary": 12279.0
+  },
+  {
+    "jobid": 609,
+    "jobtitle": "Job-302",
+    "maxsalary": 40194.0,
+    "minsalary": 12281.0
+  },
+  {
+    "jobid": 610,
+    "jobtitle": "Job-304",
+    "maxsalary": 40370.0,
+    "minsalary": 12356.0
+  },
+  {
+    "jobid": 611,
+    "jobtitle": "Job-305",
+    "maxsalary": 40433.0,
+    "minsalary": 12383.0
+  },
+  {
+    "jobid": 612,
+    "jobtitle": "Job-305",
+    "maxsalary": 40433.0,
+    "minsalary": 12383.0
+  },
+  {
+    "jobid": 613,
+    "jobtitle": "Job-305",
+    "maxsalary": 40458.0,
+    "minsalary": 12393.0
+  },
+  {
+    "jobid": 614,
+    "jobtitle": "Job-306",
+    "maxsalary": 40595.0,
+    "minsalary": 12452.0
+  },
+  {
+    "jobid": 615,
+    "jobtitle": "Job-307",
+    "maxsalary": 40644.0,
+    "minsalary": 12473.0
+  },
+  {
+    "jobid": 616,
+    "jobtitle": "Job-308",
+    "maxsalary": 40715.0,
+    "minsalary": 12503.0
+  },
+  {
+    "jobid": 617,
+    "jobtitle": "Job-309",
+    "maxsalary": 40853.0,
+    "minsalary": 12562.0
+  },
+  {
+    "jobid": 618,
+    "jobtitle": "Job-309",
+    "maxsalary": 40858.0,
+    "minsalary": 12564.0
+  },
+  {
+    "jobid": 619,
+    "jobtitle": "Job-310",
+    "maxsalary": 40954.0,
+    "minsalary": 12606.0
+  },
+  {
+    "jobid": 620,
+    "jobtitle": "Job-310",
+    "maxsalary": 40986.0,
+    "minsalary": 12620.0
+  },
+  {
+    "jobid": 621,
+    "jobtitle": "Job-310",
+    "maxsalary": 40988.0,
+    "minsalary": 12620.0
+  },
+  {
+    "jobid": 622,
+    "jobtitle": "Job-310",
+    "maxsalary": 40992.0,
+    "minsalary": 12622.0
+  },
+  {
+    "jobid": 623,
+    "jobtitle": "Job-311",
+    "maxsalary": 41016.0,
+    "minsalary": 12632.0
+  },
+  {
+    "jobid": 624,
+    "jobtitle": "Job-311",
+    "maxsalary": 41027.0,
+    "minsalary": 12637.0
+  },
+  {
+    "jobid": 625,
+    "jobtitle": "Job-311",
+    "maxsalary": 41041.0,
+    "minsalary": 12643.0
+  },
+  {
+    "jobid": 626,
+    "jobtitle": "Job-312",
+    "maxsalary": 41105.0,
+    "minsalary": 12671.0
+  },
+  {
+    "jobid": 627,
+    "jobtitle": "Job-312",
+    "maxsalary": 41170.0,
+    "minsalary": 12699.0
+  },
+  {
+    "jobid": 628,
+    "jobtitle": "Job-312",
+    "maxsalary": 41188.0,
+    "minsalary": 12707.0
+  },
+  {
+    "jobid": 629,
+    "jobtitle": "Job-313",
+    "maxsalary": 41200.0,
+    "minsalary": 12712.0
+  },
+  {
+    "jobid": 630,
+    "jobtitle": "Job-313",
+    "maxsalary": 41230.0,
+    "minsalary": 12725.0
+  },
+  {
+    "jobid": 631,
+    "jobtitle": "Job-313",
+    "maxsalary": 41252.0,
+    "minsalary": 12735.0
+  },
+  {
+    "jobid": 632,
+    "jobtitle": "Job-313",
+    "maxsalary": 41285.0,
+    "minsalary": 12749.0
+  },
+  {
+    "jobid": 633,
+    "jobtitle": "Job-315",
+    "maxsalary": 41427.0,
+    "minsalary": 12811.0
+  },
+  {
+    "jobid": 634,
+    "jobtitle": "Job-316",
+    "maxsalary": 41505.0,
+    "minsalary": 12845.0
+  },
+  {
+    "jobid": 635,
+    "jobtitle": "Job-316",
+    "maxsalary": 41580.0,
+    "minsalary": 12878.0
+  },
+  {
+    "jobid": 636,
+    "jobtitle": "Job-317",
+    "maxsalary": 41624.0,
+    "minsalary": 12897.0
+  },
+  {
+    "jobid": 637,
+    "jobtitle": "Job-319",
+    "maxsalary": 41860.0,
+    "minsalary": 13002.0
+  },
+  {
+    "jobid": 638,
+    "jobtitle": "Job-320",
+    "maxsalary": 41979.0,
+    "minsalary": 13054.0
+  },
+  {
+    "jobid": 639,
+    "jobtitle": "Job-320",
+    "maxsalary": 41991.0,
+    "minsalary": 13060.0
+  },
+  {
+    "jobid": 640,
+    "jobtitle": "Job-321",
+    "maxsalary": 42023.0,
+    "minsalary": 13074.0
+  },
+  {
+    "jobid": 641,
+    "jobtitle": "Job-321",
+    "maxsalary": 42033.0,
+    "minsalary": 13078.0
+  },
+  {
+    "jobid": 642,
+    "jobtitle": "Job-321",
+    "maxsalary": 42038.0,
+    "minsalary": 13080.0
+  },
+  {
+    "jobid": 643,
+    "jobtitle": "Job-322",
+    "maxsalary": 42141.0,
+    "minsalary": 13126.0
+  },
+  {
+    "jobid": 644,
+    "jobtitle": "Job-322",
+    "maxsalary": 42154.0,
+    "minsalary": 13132.0
+  },
+  {
+    "jobid": 645,
+    "jobtitle": "Job-322",
+    "maxsalary": 42174.0,
+    "minsalary": 13141.0
+  },
+  {
+    "jobid": 646,
+    "jobtitle": "Job-322",
+    "maxsalary": 42194.0,
+    "minsalary": 13150.0
+  },
+  {
+    "jobid": 647,
+    "jobtitle": "Job-323",
+    "maxsalary": 42205.0,
+    "minsalary": 13155.0
+  },
+  {
+    "jobid": 648,
+    "jobtitle": "Job-324",
+    "maxsalary": 42336.0,
+    "minsalary": 13213.0
+  },
+  {
+    "jobid": 649,
+    "jobtitle": "Job-324",
+    "maxsalary": 42343.0,
+    "minsalary": 13217.0
+  },
+  {
+    "jobid": 650,
+    "jobtitle": "Job-325",
+    "maxsalary": 42411.0,
+    "minsalary": 13247.0
+  },
+  {
+    "jobid": 651,
+    "jobtitle": "Job-325",
+    "maxsalary": 42422.0,
+    "minsalary": 13252.0
+  },
+  {
+    "jobid": 652,
+    "jobtitle": "Job-325",
+    "maxsalary": 42426.0,
+    "minsalary": 13254.0
+  },
+  {
+    "jobid": 653,
+    "jobtitle": "Job-325",
+    "maxsalary": 42426.0,
+    "minsalary": 13254.0
+  },
+  {
+    "jobid": 654,
+    "jobtitle": "Job-325",
+    "maxsalary": 42426.0,
+    "minsalary": 13254.0
+  },
+  {
+    "jobid": 655,
+    "jobtitle": "Job-325",
+    "maxsalary": 42454.0,
+    "minsalary": 13266.0
+  },
+  {
+    "jobid": 656,
+    "jobtitle": "Job-326",
+    "maxsalary": 42543.0,
+    "minsalary": 13306.0
+  },
+  {
+    "jobid": 657,
+    "jobtitle": "Job-327",
+    "maxsalary": 42634.0,
+    "minsalary": 13347.0
+  },
+  {
+    "jobid": 658,
+    "jobtitle": "Job-327",
+    "maxsalary": 42659.0,
+    "minsalary": 13359.0
+  },
+  {
+    "jobid": 659,
+    "jobtitle": "Job-327",
+    "maxsalary": 42698.0,
+    "minsalary": 13377.0
+  },
+  {
+    "jobid": 660,
+    "jobtitle": "Job-328",
+    "maxsalary": 42788.0,
+    "minsalary": 13417.0
+  },
+  {
+    "jobid": 661,
+    "jobtitle": "Job-329",
+    "maxsalary": 42820.0,
+    "minsalary": 13432.0
+  },
+  {
+    "jobid": 662,
+    "jobtitle": "Job-330",
+    "maxsalary": 42914.0,
+    "minsalary": 13474.0
+  },
+  {
+    "jobid": 663,
+    "jobtitle": "Job-330",
+    "maxsalary": 42984.0,
+    "minsalary": 13506.0
+  },
+  {
+    "jobid": 664,
+    "jobtitle": "Job-331",
+    "maxsalary": 43007.0,
+    "minsalary": 13517.0
+  },
+  {
+    "jobid": 665,
+    "jobtitle": "Job-331",
+    "maxsalary": 43036.0,
+    "minsalary": 13530.0
+  },
+  {
+    "jobid": 666,
+    "jobtitle": "Job-332",
+    "maxsalary": 43143.0,
+    "minsalary": 13579.0
+  },
+  {
+    "jobid": 667,
+    "jobtitle": "Job-333",
+    "maxsalary": 43232.0,
+    "minsalary": 13620.0
+  },
+  {
+    "jobid": 668,
+    "jobtitle": "Job-333",
+    "maxsalary": 43298.0,
+    "minsalary": 13650.0
+  },
+  {
+    "jobid": 669,
+    "jobtitle": "Job-334",
+    "maxsalary": 43314.0,
+    "minsalary": 13657.0
+  },
+  {
+    "jobid": 670,
+    "jobtitle": "Job-334",
+    "maxsalary": 43319.0,
+    "minsalary": 13660.0
+  },
+  {
+    "jobid": 671,
+    "jobtitle": "Job-334",
+    "maxsalary": 43336.0,
+    "minsalary": 13668.0
+  },
+  {
+    "jobid": 672,
+    "jobtitle": "Job-334",
+    "maxsalary": 43361.0,
+    "minsalary": 13679.0
+  },
+  {
+    "jobid": 673,
+    "jobtitle": "Job-335",
+    "maxsalary": 43439.0,
+    "minsalary": 13715.0
+  },
+  {
+    "jobid": 674,
+    "jobtitle": "Job-336",
+    "maxsalary": 43563.0,
+    "minsalary": 13772.0
+  },
+  {
+    "jobid": 675,
+    "jobtitle": "Job-336",
+    "maxsalary": 43573.0,
+    "minsalary": 13777.0
+  },
+  {
+    "jobid": 676,
+    "jobtitle": "Job-336",
+    "maxsalary": 43583.0,
+    "minsalary": 13782.0
+  },
+  {
+    "jobid": 677,
+    "jobtitle": "Job-336",
+    "maxsalary": 43589.0,
+    "minsalary": 13784.0
+  },
+  {
+    "jobid": 678,
+    "jobtitle": "Job-337",
+    "maxsalary": 43636.0,
+    "minsalary": 13806.0
+  },
+  {
+    "jobid": 679,
+    "jobtitle": "Job-337",
+    "maxsalary": 43685.0,
+    "minsalary": 13829.0
+  },
+  {
+    "jobid": 680,
+    "jobtitle": "Job-337",
+    "maxsalary": 43691.0,
+    "minsalary": 13832.0
+  },
+  {
+    "jobid": 681,
+    "jobtitle": "Job-338",
+    "maxsalary": 43708.0,
+    "minsalary": 13840.0
+  },
+  {
+    "jobid": 682,
+    "jobtitle": "Job-338",
+    "maxsalary": 43720.0,
+    "minsalary": 13845.0
+  },
+  {
+    "jobid": 683,
+    "jobtitle": "Job-340",
+    "maxsalary": 43914.0,
+    "minsalary": 13935.0
+  },
+  {
+    "jobid": 684,
+    "jobtitle": "Job-340",
+    "maxsalary": 43952.0,
+    "minsalary": 13953.0
+  },
+  {
+    "jobid": 685,
+    "jobtitle": "Job-340",
+    "maxsalary": 43960.0,
+    "minsalary": 13957.0
+  },
+  {
+    "jobid": 686,
+    "jobtitle": "Job-341",
+    "maxsalary": 44064.0,
+    "minsalary": 14006.0
+  },
+  {
+    "jobid": 687,
+    "jobtitle": "Job-341",
+    "maxsalary": 44071.0,
+    "minsalary": 14009.0
+  },
+  {
+    "jobid": 688,
+    "jobtitle": "Job-342",
+    "maxsalary": 44117.0,
+    "minsalary": 14031.0
+  },
+  {
+    "jobid": 689,
+    "jobtitle": "Job-342",
+    "maxsalary": 44163.0,
+    "minsalary": 14052.0
+  },
+  {
+    "jobid": 690,
+    "jobtitle": "Job-344",
+    "maxsalary": 44340.0,
+    "minsalary": 14135.0
+  },
+  {
+    "jobid": 691,
+    "jobtitle": "Job-344",
+    "maxsalary": 44350.0,
+    "minsalary": 14140.0
+  },
+  {
+    "jobid": 692,
+    "jobtitle": "Job-344",
+    "maxsalary": 44363.0,
+    "minsalary": 14146.0
+  },
+  {
+    "jobid": 693,
+    "jobtitle": "Job-344",
+    "maxsalary": 44399.0,
+    "minsalary": 14163.0
+  },
+  {
+    "jobid": 694,
+    "jobtitle": "Job-345",
+    "maxsalary": 44409.0,
+    "minsalary": 14168.0
+  },
+  {
+    "jobid": 695,
+    "jobtitle": "Job-345",
+    "maxsalary": 44419.0,
+    "minsalary": 14173.0
+  },
+  {
+    "jobid": 696,
+    "jobtitle": "Job-345",
+    "maxsalary": 44431.0,
+    "minsalary": 14178.0
+  },
+  {
+    "jobid": 697,
+    "jobtitle": "Job-345",
+    "maxsalary": 44447.0,
+    "minsalary": 14186.0
+  },
+  {
+    "jobid": 698,
+    "jobtitle": "Job-346",
+    "maxsalary": 44508.0,
+    "minsalary": 14215.0
+  },
+  {
+    "jobid": 699,
+    "jobtitle": "Job-346",
+    "maxsalary": 44514.0,
+    "minsalary": 14218.0
+  },
+  {
+    "jobid": 700,
+    "jobtitle": "Job-346",
+    "maxsalary": 44572.0,
+    "minsalary": 14245.0
+  },
+  {
+    "jobid": 701,
+    "jobtitle": "Job-347",
+    "maxsalary": 44672.0,
+    "minsalary": 14293.0
+  },
+  {
+    "jobid": 702,
+    "jobtitle": "Job-347",
+    "maxsalary": 44693.0,
+    "minsalary": 14303.0
+  },
+  {
+    "jobid": 703,
+    "jobtitle": "Job-347",
+    "maxsalary": 44695.0,
+    "minsalary": 14304.0
+  },
+  {
+    "jobid": 704,
+    "jobtitle": "Job-348",
+    "maxsalary": 44740.0,
+    "minsalary": 14325.0
+  },
+  {
+    "jobid": 705,
+    "jobtitle": "Job-348",
+    "maxsalary": 44747.0,
+    "minsalary": 14328.0
+  },
+  {
+    "jobid": 706,
+    "jobtitle": "Job-350",
+    "maxsalary": 44939.0,
+    "minsalary": 14420.0
+  },
+  {
+    "jobid": 707,
+    "jobtitle": "Job-350",
+    "maxsalary": 44952.0,
+    "minsalary": 14427.0
+  },
+  {
+    "jobid": 708,
+    "jobtitle": "Job-350",
+    "maxsalary": 44984.0,
+    "minsalary": 14442.0
+  },
+  {
+    "jobid": 709,
+    "jobtitle": "Job-351",
+    "maxsalary": 45034.0,
+    "minsalary": 14466.0
+  },
+  {
+    "jobid": 710,
+    "jobtitle": "Job-351",
+    "maxsalary": 45037.0,
+    "minsalary": 14467.0
+  },
+  {
+    "jobid": 711,
+    "jobtitle": "Job-351",
+    "maxsalary": 45068.0,
+    "minsalary": 14482.0
+  },
+  {
+    "jobid": 712,
+    "jobtitle": "Job-351",
+    "maxsalary": 45078.0,
+    "minsalary": 14487.0
+  },
+  {
+    "jobid": 713,
+    "jobtitle": "Job-353",
+    "maxsalary": 45249.0,
+    "minsalary": 14570.0
+  },
+  {
+    "jobid": 714,
+    "jobtitle": "Job-354",
+    "maxsalary": 45311.0,
+    "minsalary": 14599.0
+  },
+  {
+    "jobid": 715,
+    "jobtitle": "Job-354",
+    "maxsalary": 45319.0,
+    "minsalary": 14603.0
+  },
+  {
+    "jobid": 716,
+    "jobtitle": "Job-354",
+    "maxsalary": 45375.0,
+    "minsalary": 14630.0
+  },
+  {
+    "jobid": 717,
+    "jobtitle": "Job-354",
+    "maxsalary": 45379.0,
+    "minsalary": 14632.0
+  },
+  {
+    "jobid": 718,
+    "jobtitle": "Job-354",
+    "maxsalary": 45390.0,
+    "minsalary": 14638.0
+  },
+  {
+    "jobid": 719,
+    "jobtitle": "Job-354",
+    "maxsalary": 45398.0,
+    "minsalary": 14642.0
+  },
+  {
+    "jobid": 720,
+    "jobtitle": "Job-355",
+    "maxsalary": 45427.0,
+    "minsalary": 14656.0
+  },
+  {
+    "jobid": 721,
+    "jobtitle": "Job-355",
+    "maxsalary": 45464.0,
+    "minsalary": 14674.0
+  },
+  {
+    "jobid": 722,
+    "jobtitle": "Job-355",
+    "maxsalary": 45466.0,
+    "minsalary": 14675.0
+  },
+  {
+    "jobid": 723,
+    "jobtitle": "Job-355",
+    "maxsalary": 45496.0,
+    "minsalary": 14689.0
+  },
+  {
+    "jobid": 724,
+    "jobtitle": "Job-357",
+    "maxsalary": 45625.0,
+    "minsalary": 14752.0
+  },
+  {
+    "jobid": 725,
+    "jobtitle": "Job-358",
+    "maxsalary": 45758.0,
+    "minsalary": 14817.0
+  },
+  {
+    "jobid": 726,
+    "jobtitle": "Job-359",
+    "maxsalary": 45816.0,
+    "minsalary": 14845.0
+  },
+  {
+    "jobid": 727,
+    "jobtitle": "Job-359",
+    "maxsalary": 45878.0,
+    "minsalary": 14876.0
+  },
+  {
+    "jobid": 728,
+    "jobtitle": "Job-361",
+    "maxsalary": 46012.0,
+    "minsalary": 14942.0
+  },
+  {
+    "jobid": 729,
+    "jobtitle": "Job-361",
+    "maxsalary": 46016.0,
+    "minsalary": 14944.0
+  },
+  {
+    "jobid": 730,
+    "jobtitle": "Job-361",
+    "maxsalary": 46071.0,
+    "minsalary": 14971.0
+  },
+  {
+    "jobid": 731,
+    "jobtitle": "Job-361",
+    "maxsalary": 46085.0,
+    "minsalary": 14978.0
+  },
+  {
+    "jobid": 732,
+    "jobtitle": "Job-361",
+    "maxsalary": 46090.0,
+    "minsalary": 14980.0
+  },
+  {
+    "jobid": 733,
+    "jobtitle": "Job-362",
+    "maxsalary": 46157.0,
+    "minsalary": 15013.0
+  },
+  {
+    "jobid": 734,
+    "jobtitle": "Job-363",
+    "maxsalary": 46209.0,
+    "minsalary": 15039.0
+  },
+  {
+    "jobid": 735,
+    "jobtitle": "Job-363",
+    "maxsalary": 46221.0,
+    "minsalary": 15045.0
+  },
+  {
+    "jobid": 736,
+    "jobtitle": "Job-363",
+    "maxsalary": 46260.0,
+    "minsalary": 15064.0
+  },
+  {
+    "jobid": 737,
+    "jobtitle": "Job-363",
+    "maxsalary": 46285.0,
+    "minsalary": 15076.0
+  },
+  {
+    "jobid": 738,
+    "jobtitle": "Job-363",
+    "maxsalary": 46289.0,
+    "minsalary": 15078.0
+  },
+  {
+    "jobid": 739,
+    "jobtitle": "Job-364",
+    "maxsalary": 46335.0,
+    "minsalary": 15101.0
+  },
+  {
+    "jobid": 740,
+    "jobtitle": "Job-364",
+    "maxsalary": 46335.0,
+    "minsalary": 15101.0
+  },
+  {
+    "jobid": 741,
+    "jobtitle": "Job-365",
+    "maxsalary": 46469.0,
+    "minsalary": 15168.0
+  },
+  {
+    "jobid": 742,
+    "jobtitle": "Job-366",
+    "maxsalary": 46520.0,
+    "minsalary": 15193.0
+  },
+  {
+    "jobid": 743,
+    "jobtitle": "Job-367",
+    "maxsalary": 46672.0,
+    "minsalary": 15269.0
+  },
+  {
+    "jobid": 744,
+    "jobtitle": "Job-368",
+    "maxsalary": 46727.0,
+    "minsalary": 15296.0
+  },
+  {
+    "jobid": 745,
+    "jobtitle": "Job-368",
+    "maxsalary": 46785.0,
+    "minsalary": 15326.0
+  },
+  {
+    "jobid": 746,
+    "jobtitle": "Job-369",
+    "maxsalary": 46809.0,
+    "minsalary": 15338.0
+  },
+  {
+    "jobid": 747,
+    "jobtitle": "Job-369",
+    "maxsalary": 46853.0,
+    "minsalary": 15360.0
+  },
+  {
+    "jobid": 748,
+    "jobtitle": "Job-370",
+    "maxsalary": 46911.0,
+    "minsalary": 15389.0
+  },
+  {
+    "jobid": 749,
+    "jobtitle": "Job-370",
+    "maxsalary": 46915.0,
+    "minsalary": 15391.0
+  },
+  {
+    "jobid": 750,
+    "jobtitle": "Job-370",
+    "maxsalary": 46973.0,
+    "minsalary": 15420.0
+  },
+  {
+    "jobid": 751,
+    "jobtitle": "Job-371",
+    "maxsalary": 47032.0,
+    "minsalary": 15450.0
+  },
+  {
+    "jobid": 752,
+    "jobtitle": "Job-371",
+    "maxsalary": 47040.0,
+    "minsalary": 15454.0
+  },
+  {
+    "jobid": 753,
+    "jobtitle": "Job-371",
+    "maxsalary": 47059.0,
+    "minsalary": 15463.0
+  },
+  {
+    "jobid": 754,
+    "jobtitle": "Job-372",
+    "maxsalary": 47129.0,
+    "minsalary": 15499.0
+  },
+  {
+    "jobid": 755,
+    "jobtitle": "Job-372",
+    "maxsalary": 47143.0,
+    "minsalary": 15506.0
+  },
+  {
+    "jobid": 756,
+    "jobtitle": "Job-372",
+    "maxsalary": 47148.0,
+    "minsalary": 15508.0
+  },
+  {
+    "jobid": 757,
+    "jobtitle": "Job-372",
+    "maxsalary": 47157.0,
+    "minsalary": 15513.0
+  },
+  {
+    "jobid": 758,
+    "jobtitle": "Job-373",
+    "maxsalary": 47207.0,
+    "minsalary": 15538.0
+  },
+  {
+    "jobid": 759,
+    "jobtitle": "Job-373",
+    "maxsalary": 47249.0,
+    "minsalary": 15560.0
+  },
+  {
+    "jobid": 760,
+    "jobtitle": "Job-373",
+    "maxsalary": 47277.0,
+    "minsalary": 15574.0
+  },
+  {
+    "jobid": 761,
+    "jobtitle": "Job-374",
+    "maxsalary": 47324.0,
+    "minsalary": 15598.0
+  },
+  {
+    "jobid": 762,
+    "jobtitle": "Job-374",
+    "maxsalary": 47391.0,
+    "minsalary": 15632.0
+  },
+  {
+    "jobid": 763,
+    "jobtitle": "Job-374",
+    "maxsalary": 47391.0,
+    "minsalary": 15632.0
+  },
+  {
+    "jobid": 764,
+    "jobtitle": "Job-375",
+    "maxsalary": 47435.0,
+    "minsalary": 15654.0
+  },
+  {
+    "jobid": 765,
+    "jobtitle": "Job-376",
+    "maxsalary": 47501.0,
+    "minsalary": 15688.0
+  },
+  {
+    "jobid": 766,
+    "jobtitle": "Job-376",
+    "maxsalary": 47510.0,
+    "minsalary": 15692.0
+  },
+  {
+    "jobid": 767,
+    "jobtitle": "Job-376",
+    "maxsalary": 47518.0,
+    "minsalary": 15696.0
+  },
+  {
+    "jobid": 768,
+    "jobtitle": "Job-376",
+    "maxsalary": 47533.0,
+    "minsalary": 15704.0
+  },
+  {
+    "jobid": 769,
+    "jobtitle": "Job-376",
+    "maxsalary": 47534.0,
+    "minsalary": 15705.0
+  },
+  {
+    "jobid": 770,
+    "jobtitle": "Job-376",
+    "maxsalary": 47571.0,
+    "minsalary": 15723.0
+  },
+  {
+    "jobid": 771,
+    "jobtitle": "Job-376",
+    "maxsalary": 47584.0,
+    "minsalary": 15730.0
+  },
+  {
+    "jobid": 772,
+    "jobtitle": "Job-377",
+    "maxsalary": 47609.0,
+    "minsalary": 15743.0
+  },
+  {
+    "jobid": 773,
+    "jobtitle": "Job-377",
+    "maxsalary": 47666.0,
+    "minsalary": 15772.0
+  },
+  {
+    "jobid": 774,
+    "jobtitle": "Job-377",
+    "maxsalary": 47676.0,
+    "minsalary": 15777.0
+  },
+  {
+    "jobid": 775,
+    "jobtitle": "Job-379",
+    "maxsalary": 47833.0,
+    "minsalary": 15858.0
+  },
+  {
+    "jobid": 776,
+    "jobtitle": "Job-379",
+    "maxsalary": 47859.0,
+    "minsalary": 15871.0
+  },
+  {
+    "jobid": 777,
+    "jobtitle": "Job-379",
+    "maxsalary": 47880.0,
+    "minsalary": 15882.0
+  },
+  {
+    "jobid": 778,
+    "jobtitle": "Job-380",
+    "maxsalary": 47905.0,
+    "minsalary": 15895.0
+  },
+  {
+    "jobid": 779,
+    "jobtitle": "Job-380",
+    "maxsalary": 47905.0,
+    "minsalary": 15895.0
+  },
+  {
+    "jobid": 780,
+    "jobtitle": "Job-380",
+    "maxsalary": 47927.0,
+    "minsalary": 15906.0
+  },
+  {
+    "jobid": 781,
+    "jobtitle": "Job-380",
+    "maxsalary": 47953.0,
+    "minsalary": 15919.0
+  },
+  {
+    "jobid": 782,
+    "jobtitle": "Job-380",
+    "maxsalary": 47962.0,
+    "minsalary": 15924.0
+  },
+  {
+    "jobid": 783,
+    "jobtitle": "Job-381",
+    "maxsalary": 48005.0,
+    "minsalary": 15946.0
+  },
+  {
+    "jobid": 784,
+    "jobtitle": "Job-381",
+    "maxsalary": 48035.0,
+    "minsalary": 15962.0
+  },
+  {
+    "jobid": 785,
+    "jobtitle": "Job-382",
+    "maxsalary": 48156.0,
+    "minsalary": 16024.0
+  },
+  {
+    "jobid": 786,
+    "jobtitle": "Job-382",
+    "maxsalary": 48172.0,
+    "minsalary": 16032.0
+  },
+  {
+    "jobid": 787,
+    "jobtitle": "Job-382",
+    "maxsalary": 48186.0,
+    "minsalary": 16040.0
+  },
+  {
+    "jobid": 788,
+    "jobtitle": "Job-383",
+    "maxsalary": 48241.0,
+    "minsalary": 16068.0
+  },
+  {
+    "jobid": 789,
+    "jobtitle": "Job-383",
+    "maxsalary": 48292.0,
+    "minsalary": 16095.0
+  },
+  {
+    "jobid": 790,
+    "jobtitle": "Job-384",
+    "maxsalary": 48344.0,
+    "minsalary": 16122.0
+  },
+  {
+    "jobid": 791,
+    "jobtitle": "Job-384",
+    "maxsalary": 48388.0,
+    "minsalary": 16145.0
+  },
+  {
+    "jobid": 792,
+    "jobtitle": "Job-385",
+    "maxsalary": 48401.0,
+    "minsalary": 16152.0
+  },
+  {
+    "jobid": 793,
+    "jobtitle": "Job-385",
+    "maxsalary": 48402.0,
+    "minsalary": 16152.0
+  },
+  {
+    "jobid": 794,
+    "jobtitle": "Job-385",
+    "maxsalary": 48415.0,
+    "minsalary": 16159.0
+  },
+  {
+    "jobid": 795,
+    "jobtitle": "Job-385",
+    "maxsalary": 48422.0,
+    "minsalary": 16162.0
+  },
+  {
+    "jobid": 796,
+    "jobtitle": "Job-385",
+    "maxsalary": 48476.0,
+    "minsalary": 16191.0
+  },
+  {
+    "jobid": 797,
+    "jobtitle": "Job-385",
+    "maxsalary": 48483.0,
+    "minsalary": 16194.0
+  },
+  {
+    "jobid": 798,
+    "jobtitle": "Job-386",
+    "maxsalary": 48517.0,
+    "minsalary": 16212.0
+  },
+  {
+    "jobid": 799,
+    "jobtitle": "Job-386",
+    "maxsalary": 48524.0,
+    "minsalary": 16216.0
+  },
+  {
+    "jobid": 800,
+    "jobtitle": "Job-386",
+    "maxsalary": 48542.0,
+    "minsalary": 16225.0
+  },
+  {
+    "jobid": 801,
+    "jobtitle": "Job-386",
+    "maxsalary": 48562.0,
+    "minsalary": 16236.0
+  },
+  {
+    "jobid": 802,
+    "jobtitle": "Job-386",
+    "maxsalary": 48589.0,
+    "minsalary": 16250.0
+  },
+  {
+    "jobid": 803,
+    "jobtitle": "Job-387",
+    "maxsalary": 48678.0,
+    "minsalary": 16296.0
+  },
+  {
+    "jobid": 804,
+    "jobtitle": "Job-388",
+    "maxsalary": 48751.0,
+    "minsalary": 16335.0
+  },
+  {
+    "jobid": 805,
+    "jobtitle": "Job-389",
+    "maxsalary": 48805.0,
+    "minsalary": 16363.0
+  },
+  {
+    "jobid": 806,
+    "jobtitle": "Job-389",
+    "maxsalary": 48831.0,
+    "minsalary": 16377.0
+  },
+  {
+    "jobid": 807,
+    "jobtitle": "Job-389",
+    "maxsalary": 48886.0,
+    "minsalary": 16406.0
+  },
+  {
+    "jobid": 808,
+    "jobtitle": "Job-390",
+    "maxsalary": 48954.0,
+    "minsalary": 16441.0
+  },
+  {
+    "jobid": 809,
+    "jobtitle": "Job-390",
+    "maxsalary": 48963.0,
+    "minsalary": 16446.0
+  },
+  {
+    "jobid": 810,
+    "jobtitle": "Job-391",
+    "maxsalary": 49026.0,
+    "minsalary": 16479.0
+  },
+  {
+    "jobid": 811,
+    "jobtitle": "Job-391",
+    "maxsalary": 49069.0,
+    "minsalary": 16502.0
+  },
+  {
+    "jobid": 812,
+    "jobtitle": "Job-391",
+    "maxsalary": 49075.0,
+    "minsalary": 16505.0
+  },
+  {
+    "jobid": 813,
+    "jobtitle": "Job-391",
+    "maxsalary": 49081.0,
+    "minsalary": 16508.0
+  },
+  {
+    "jobid": 814,
+    "jobtitle": "Job-392",
+    "maxsalary": 49119.0,
+    "minsalary": 16529.0
+  },
+  {
+    "jobid": 815,
+    "jobtitle": "Job-392",
+    "maxsalary": 49135.0,
+    "minsalary": 16537.0
+  },
+  {
+    "jobid": 816,
+    "jobtitle": "Job-393",
+    "maxsalary": 49258.0,
+    "minsalary": 16602.0
+  },
+  {
+    "jobid": 817,
+    "jobtitle": "Job-393",
+    "maxsalary": 49287.0,
+    "minsalary": 16618.0
+  },
+  {
+    "jobid": 818,
+    "jobtitle": "Job-393",
+    "maxsalary": 49291.0,
+    "minsalary": 16620.0
+  },
+  {
+    "jobid": 819,
+    "jobtitle": "Job-394",
+    "maxsalary": 49399.0,
+    "minsalary": 16677.0
+  },
+  {
+    "jobid": 820,
+    "jobtitle": "Job-395",
+    "maxsalary": 49415.0,
+    "minsalary": 16686.0
+  },
+  {
+    "jobid": 821,
+    "jobtitle": "Job-395",
+    "maxsalary": 49437.0,
+    "minsalary": 16698.0
+  },
+  {
+    "jobid": 822,
+    "jobtitle": "Job-396",
+    "maxsalary": 49548.0,
+    "minsalary": 16757.0
+  },
+  {
+    "jobid": 823,
+    "jobtitle": "Job-396",
+    "maxsalary": 49553.0,
+    "minsalary": 16759.0
+  },
+  {
+    "jobid": 824,
+    "jobtitle": "Job-398",
+    "maxsalary": 49715.0,
+    "minsalary": 16846.0
+  },
+  {
+    "jobid": 825,
+    "jobtitle": "Job-398",
+    "maxsalary": 49743.0,
+    "minsalary": 16861.0
+  },
+  {
+    "jobid": 826,
+    "jobtitle": "Job-398",
+    "maxsalary": 49777.0,
+    "minsalary": 16880.0
+  },
+  {
+    "jobid": 827,
+    "jobtitle": "Job-399",
+    "maxsalary": 49830.0,
+    "minsalary": 16908.0
+  },
+  {
+    "jobid": 828,
+    "jobtitle": "Job-399",
+    "maxsalary": 49839.0,
+    "minsalary": 16913.0
+  },
+  {
+    "jobid": 829,
+    "jobtitle": "Job-399",
+    "maxsalary": 49861.0,
+    "minsalary": 16925.0
+  },
+  {
+    "jobid": 830,
+    "jobtitle": "Job-400",
+    "maxsalary": 49900.0,
+    "minsalary": 16946.0
+  },
+  {
+    "jobid": 831,
+    "jobtitle": "Job-400",
+    "maxsalary": 49940.0,
+    "minsalary": 16967.0
+  },
+  {
+    "jobid": 832,
+    "jobtitle": "Job-401",
+    "maxsalary": 50041.0,
+    "minsalary": 17022.0
+  },
+  {
+    "jobid": 833,
+    "jobtitle": "Job-403",
+    "maxsalary": 50288.0,
+    "minsalary": 17156.0
+  },
+  {
+    "jobid": 834,
+    "jobtitle": "Job-404",
+    "maxsalary": 50301.0,
+    "minsalary": 17163.0
+  },
+  {
+    "jobid": 835,
+    "jobtitle": "Job-404",
+    "maxsalary": 50304.0,
+    "minsalary": 17164.0
+  },
+  {
+    "jobid": 836,
+    "jobtitle": "Job-404",
+    "maxsalary": 50328.0,
+    "minsalary": 17177.0
+  },
+  {
+    "jobid": 837,
+    "jobtitle": "Job-404",
+    "maxsalary": 50360.0,
+    "minsalary": 17195.0
+  },
+  {
+    "jobid": 838,
+    "jobtitle": "Job-405",
+    "maxsalary": 50474.0,
+    "minsalary": 17257.0
+  },
+  {
+    "jobid": 839,
+    "jobtitle": "Job-405",
+    "maxsalary": 50486.0,
+    "minsalary": 17263.0
+  },
+  {
+    "jobid": 840,
+    "jobtitle": "Job-405",
+    "maxsalary": 50499.0,
+    "minsalary": 17271.0
+  },
+  {
+    "jobid": 841,
+    "jobtitle": "Job-407",
+    "maxsalary": 50614.0,
+    "minsalary": 17333.0
+  },
+  {
+    "jobid": 842,
+    "jobtitle": "Job-407",
+    "maxsalary": 50661.0,
+    "minsalary": 17359.0
+  },
+  {
+    "jobid": 843,
+    "jobtitle": "Job-407",
+    "maxsalary": 50677.0,
+    "minsalary": 17368.0
+  },
+  {
+    "jobid": 844,
+    "jobtitle": "Job-408",
+    "maxsalary": 50701.0,
+    "minsalary": 17381.0
+  },
+  {
+    "jobid": 845,
+    "jobtitle": "Job-408",
+    "maxsalary": 50751.0,
+    "minsalary": 17409.0
+  },
+  {
+    "jobid": 846,
+    "jobtitle": "Job-409",
+    "maxsalary": 50816.0,
+    "minsalary": 17444.0
+  },
+  {
+    "jobid": 847,
+    "jobtitle": "Job-409",
+    "maxsalary": 50847.0,
+    "minsalary": 17461.0
+  },
+  {
+    "jobid": 848,
+    "jobtitle": "Job-409",
+    "maxsalary": 50861.0,
+    "minsalary": 17469.0
+  },
+  {
+    "jobid": 849,
+    "jobtitle": "Job-409",
+    "maxsalary": 50898.0,
+    "minsalary": 17489.0
+  },
+  {
+    "jobid": 850,
+    "jobtitle": "Job-410",
+    "maxsalary": 50900.0,
+    "minsalary": 17490.0
+  },
+  {
+    "jobid": 851,
+    "jobtitle": "Job-411",
+    "maxsalary": 51008.0,
+    "minsalary": 17550.0
+  },
+  {
+    "jobid": 852,
+    "jobtitle": "Job-411",
+    "maxsalary": 51014.0,
+    "minsalary": 17553.0
+  },
+  {
+    "jobid": 853,
+    "jobtitle": "Job-411",
+    "maxsalary": 51072.0,
+    "minsalary": 17585.0
+  },
+  {
+    "jobid": 854,
+    "jobtitle": "Job-411",
+    "maxsalary": 51085.0,
+    "minsalary": 17593.0
+  },
+  {
+    "jobid": 855,
+    "jobtitle": "Job-412",
+    "maxsalary": 51121.0,
+    "minsalary": 17612.0
+  },
+  {
+    "jobid": 856,
+    "jobtitle": "Job-412",
+    "maxsalary": 51129.0,
+    "minsalary": 17617.0
+  },
+  {
+    "jobid": 857,
+    "jobtitle": "Job-412",
+    "maxsalary": 51137.0,
+    "minsalary": 17621.0
+  },
+  {
+    "jobid": 858,
+    "jobtitle": "Job-415",
+    "maxsalary": 51420.0,
+    "minsalary": 17779.0
+  },
+  {
+    "jobid": 859,
+    "jobtitle": "Job-416",
+    "maxsalary": 51562.0,
+    "minsalary": 17858.0
+  },
+  {
+    "jobid": 860,
+    "jobtitle": "Job-417",
+    "maxsalary": 51633.0,
+    "minsalary": 17898.0
+  },
+  {
+    "jobid": 861,
+    "jobtitle": "Job-417",
+    "maxsalary": 51658.0,
+    "minsalary": 17912.0
+  },
+  {
+    "jobid": 862,
+    "jobtitle": "Job-418",
+    "maxsalary": 51755.0,
+    "minsalary": 17966.0
+  },
+  {
+    "jobid": 863,
+    "jobtitle": "Job-419",
+    "maxsalary": 51812.0,
+    "minsalary": 17998.0
+  },
+  {
+    "jobid": 864,
+    "jobtitle": "Job-419",
+    "maxsalary": 51825.0,
+    "minsalary": 18005.0
+  },
+  {
+    "jobid": 865,
+    "jobtitle": "Job-419",
+    "maxsalary": 51860.0,
+    "minsalary": 18025.0
+  },
+  {
+    "jobid": 866,
+    "jobtitle": "Job-420",
+    "maxsalary": 51923.0,
+    "minsalary": 18060.0
+  },
+  {
+    "jobid": 867,
+    "jobtitle": "Job-420",
+    "maxsalary": 51940.0,
+    "minsalary": 18070.0
+  },
+  {
+    "jobid": 868,
+    "jobtitle": "Job-420",
+    "maxsalary": 51945.0,
+    "minsalary": 18073.0
+  },
+  {
+    "jobid": 869,
+    "jobtitle": "Job-420",
+    "maxsalary": 51958.0,
+    "minsalary": 18080.0
+  },
+  {
+    "jobid": 870,
+    "jobtitle": "Job-420",
+    "maxsalary": 51962.0,
+    "minsalary": 18082.0
+  },
+  {
+    "jobid": 871,
+    "jobtitle": "Job-420",
+    "maxsalary": 51980.0,
+    "minsalary": 18092.0
+  },
+  {
+    "jobid": 872,
+    "jobtitle": "Job-420",
+    "maxsalary": 51992.0,
+    "minsalary": 18099.0
+  },
+  {
+    "jobid": 873,
+    "jobtitle": "Job-421",
+    "maxsalary": 52017.0,
+    "minsalary": 18113.0
+  },
+  {
+    "jobid": 874,
+    "jobtitle": "Job-421",
+    "maxsalary": 52022.0,
+    "minsalary": 18116.0
+  },
+  {
+    "jobid": 875,
+    "jobtitle": "Job-422",
+    "maxsalary": 52101.0,
+    "minsalary": 18161.0
+  },
+  {
+    "jobid": 876,
+    "jobtitle": "Job-422",
+    "maxsalary": 52176.0,
+    "minsalary": 18203.0
+  },
+  {
+    "jobid": 877,
+    "jobtitle": "Job-424",
+    "maxsalary": 52327.0,
+    "minsalary": 18289.0
+  },
+  {
+    "jobid": 878,
+    "jobtitle": "Job-425",
+    "maxsalary": 52487.0,
+    "minsalary": 18380.0
+  },
+  {
+    "jobid": 879,
+    "jobtitle": "Job-426",
+    "maxsalary": 52539.0,
+    "minsalary": 18409.0
+  },
+  {
+    "jobid": 880,
+    "jobtitle": "Job-426",
+    "maxsalary": 52557.0,
+    "minsalary": 18420.0
+  },
+  {
+    "jobid": 881,
+    "jobtitle": "Job-426",
+    "maxsalary": 52570.0,
+    "minsalary": 18427.0
+  },
+  {
+    "jobid": 882,
+    "jobtitle": "Job-426",
+    "maxsalary": 52588.0,
+    "minsalary": 18437.0
+  },
+  {
+    "jobid": 883,
+    "jobtitle": "Job-428",
+    "maxsalary": 52762.0,
+    "minsalary": 18537.0
+  },
+  {
+    "jobid": 884,
+    "jobtitle": "Job-428",
+    "maxsalary": 52786.0,
+    "minsalary": 18551.0
+  },
+  {
+    "jobid": 885,
+    "jobtitle": "Job-429",
+    "maxsalary": 52872.0,
+    "minsalary": 18600.0
+  },
+  {
+    "jobid": 886,
+    "jobtitle": "Job-430",
+    "maxsalary": 52946.0,
+    "minsalary": 18643.0
+  },
+  {
+    "jobid": 887,
+    "jobtitle": "Job-430",
+    "maxsalary": 52963.0,
+    "minsalary": 18652.0
+  },
+  {
+    "jobid": 888,
+    "jobtitle": "Job-432",
+    "maxsalary": 53130.0,
+    "minsalary": 18749.0
+  },
+  {
+    "jobid": 889,
+    "jobtitle": "Job-432",
+    "maxsalary": 53168.0,
+    "minsalary": 18771.0
+  },
+  {
+    "jobid": 890,
+    "jobtitle": "Job-433",
+    "maxsalary": 53286.0,
+    "minsalary": 18839.0
+  },
+  {
+    "jobid": 891,
+    "jobtitle": "Job-433",
+    "maxsalary": 53292.0,
+    "minsalary": 18842.0
+  },
+  {
+    "jobid": 892,
+    "jobtitle": "Job-434",
+    "maxsalary": 53301.0,
+    "minsalary": 18848.0
+  },
+  {
+    "jobid": 893,
+    "jobtitle": "Job-434",
+    "maxsalary": 53365.0,
+    "minsalary": 18885.0
+  },
+  {
+    "jobid": 894,
+    "jobtitle": "Job-434",
+    "maxsalary": 53392.0,
+    "minsalary": 18901.0
+  },
+  {
+    "jobid": 895,
+    "jobtitle": "Job-435",
+    "maxsalary": 53421.0,
+    "minsalary": 18917.0
+  },
+  {
+    "jobid": 896,
+    "jobtitle": "Job-435",
+    "maxsalary": 53473.0,
+    "minsalary": 18947.0
+  },
+  {
+    "jobid": 897,
+    "jobtitle": "Job-435",
+    "maxsalary": 53494.0,
+    "minsalary": 18960.0
+  },
+  {
+    "jobid": 898,
+    "jobtitle": "Job-436",
+    "maxsalary": 53559.0,
+    "minsalary": 18997.0
+  },
+  {
+    "jobid": 899,
+    "jobtitle": "Job-436",
+    "maxsalary": 53564.0,
+    "minsalary": 19000.0
+  },
+  {
+    "jobid": 900,
+    "jobtitle": "Job-437",
+    "maxsalary": 53628.0,
+    "minsalary": 19038.0
+  },
+  {
+    "jobid": 901,
+    "jobtitle": "Job-438",
+    "maxsalary": 53708.0,
+    "minsalary": 19085.0
+  },
+  {
+    "jobid": 902,
+    "jobtitle": "Job-438",
+    "maxsalary": 53714.0,
+    "minsalary": 19088.0
+  },
+  {
+    "jobid": 903,
+    "jobtitle": "Job-438",
+    "maxsalary": 53743.0,
+    "minsalary": 19105.0
+  },
+  {
+    "jobid": 904,
+    "jobtitle": "Job-438",
+    "maxsalary": 53777.0,
+    "minsalary": 19125.0
+  },
+  {
+    "jobid": 905,
+    "jobtitle": "Job-440",
+    "maxsalary": 53921.0,
+    "minsalary": 19209.0
+  },
+  {
+    "jobid": 906,
+    "jobtitle": "Job-440",
+    "maxsalary": 53972.0,
+    "minsalary": 19239.0
+  },
+  {
+    "jobid": 907,
+    "jobtitle": "Job-441",
+    "maxsalary": 54071.0,
+    "minsalary": 19298.0
+  },
+  {
+    "jobid": 908,
+    "jobtitle": "Job-441",
+    "maxsalary": 54080.0,
+    "minsalary": 19303.0
+  },
+  {
+    "jobid": 909,
+    "jobtitle": "Job-441",
+    "maxsalary": 54090.0,
+    "minsalary": 19309.0
+  },
+  {
+    "jobid": 910,
+    "jobtitle": "Job-442",
+    "maxsalary": 54114.0,
+    "minsalary": 19323.0
+  },
+  {
+    "jobid": 911,
+    "jobtitle": "Job-442",
+    "maxsalary": 54118.0,
+    "minsalary": 19325.0
+  },
+  {
+    "jobid": 912,
+    "jobtitle": "Job-442",
+    "maxsalary": 54128.0,
+    "minsalary": 19331.0
+  },
+  {
+    "jobid": 913,
+    "jobtitle": "Job-443",
+    "maxsalary": 54243.0,
+    "minsalary": 19399.0
+  },
+  {
+    "jobid": 914,
+    "jobtitle": "Job-443",
+    "maxsalary": 54247.0,
+    "minsalary": 19401.0
+  },
+  {
+    "jobid": 915,
+    "jobtitle": "Job-445",
+    "maxsalary": 54451.0,
+    "minsalary": 19522.0
+  },
+  {
+    "jobid": 916,
+    "jobtitle": "Job-445",
+    "maxsalary": 54462.0,
+    "minsalary": 19529.0
+  },
+  {
+    "jobid": 917,
+    "jobtitle": "Job-446",
+    "maxsalary": 54526.0,
+    "minsalary": 19567.0
+  },
+  {
+    "jobid": 918,
+    "jobtitle": "Job-447",
+    "maxsalary": 54675.0,
+    "minsalary": 19655.0
+  },
+  {
+    "jobid": 919,
+    "jobtitle": "Job-447",
+    "maxsalary": 54678.0,
+    "minsalary": 19657.0
+  },
+  {
+    "jobid": 920,
+    "jobtitle": "Job-447",
+    "maxsalary": 54681.0,
+    "minsalary": 19659.0
+  },
+  {
+    "jobid": 921,
+    "jobtitle": "Job-447",
+    "maxsalary": 54687.0,
+    "minsalary": 19662.0
+  },
+  {
+    "jobid": 922,
+    "jobtitle": "Job-448",
+    "maxsalary": 54705.0,
+    "minsalary": 19673.0
+  },
+  {
+    "jobid": 923,
+    "jobtitle": "Job-448",
+    "maxsalary": 54717.0,
+    "minsalary": 19680.0
+  },
+  {
+    "jobid": 924,
+    "jobtitle": "Job-449",
+    "maxsalary": 54811.0,
+    "minsalary": 19737.0
+  },
+  {
+    "jobid": 925,
+    "jobtitle": "Job-449",
+    "maxsalary": 54841.0,
+    "minsalary": 19754.0
+  },
+  {
+    "jobid": 926,
+    "jobtitle": "Job-449",
+    "maxsalary": 54846.0,
+    "minsalary": 19757.0
+  },
+  {
+    "jobid": 927,
+    "jobtitle": "Job-450",
+    "maxsalary": 54969.0,
+    "minsalary": 19831.0
+  },
+  {
+    "jobid": 928,
+    "jobtitle": "Job-451",
+    "maxsalary": 55021.0,
+    "minsalary": 19862.0
+  },
+  {
+    "jobid": 929,
+    "jobtitle": "Job-451",
+    "maxsalary": 55064.0,
+    "minsalary": 19888.0
+  },
+  {
+    "jobid": 930,
+    "jobtitle": "Job-451",
+    "maxsalary": 55070.0,
+    "minsalary": 19892.0
+  },
+  {
+    "jobid": 931,
+    "jobtitle": "Job-452",
+    "maxsalary": 55119.0,
+    "minsalary": 19921.0
+  },
+  {
+    "jobid": 932,
+    "jobtitle": "Job-452",
+    "maxsalary": 55155.0,
+    "minsalary": 19943.0
+  },
+  {
+    "jobid": 933,
+    "jobtitle": "Job-452",
+    "maxsalary": 55164.0,
+    "minsalary": 19948.0
+  },
+  {
+    "jobid": 934,
+    "jobtitle": "Job-453",
+    "maxsalary": 55217.0,
+    "minsalary": 19980.0
+  },
+  {
+    "jobid": 935,
+    "jobtitle": "Job-453",
+    "maxsalary": 55244.0,
+    "minsalary": 19996.0
+  },
+  {
+    "jobid": 936,
+    "jobtitle": "Job-453",
+    "maxsalary": 55263.0,
+    "minsalary": 20008.0
+  },
+  {
+    "jobid": 937,
+    "jobtitle": "Job-453",
+    "maxsalary": 55292.0,
+    "minsalary": 20025.0
+  },
+  {
+    "jobid": 938,
+    "jobtitle": "Job-454",
+    "maxsalary": 55324.0,
+    "minsalary": 20045.0
+  },
+  {
+    "jobid": 939,
+    "jobtitle": "Job-454",
+    "maxsalary": 55357.0,
+    "minsalary": 20065.0
+  },
+  {
+    "jobid": 940,
+    "jobtitle": "Job-454",
+    "maxsalary": 55388.0,
+    "minsalary": 20083.0
+  },
+  {
+    "jobid": 941,
+    "jobtitle": "Job-455",
+    "maxsalary": 55476.0,
+    "minsalary": 20137.0
+  },
+  {
+    "jobid": 942,
+    "jobtitle": "Job-455",
+    "maxsalary": 55496.0,
+    "minsalary": 20149.0
+  },
+  {
+    "jobid": 943,
+    "jobtitle": "Job-458",
+    "maxsalary": 55724.0,
+    "minsalary": 20287.0
+  },
+  {
+    "jobid": 944,
+    "jobtitle": "Job-458",
+    "maxsalary": 55779.0,
+    "minsalary": 20321.0
+  },
+  {
+    "jobid": 945,
+    "jobtitle": "Job-459",
+    "maxsalary": 55821.0,
+    "minsalary": 20346.0
+  },
+  {
+    "jobid": 946,
+    "jobtitle": "Job-459",
+    "maxsalary": 55827.0,
+    "minsalary": 20350.0
+  },
+  {
+    "jobid": 947,
+    "jobtitle": "Job-459",
+    "maxsalary": 55830.0,
+    "minsalary": 20352.0
+  },
+  {
+    "jobid": 948,
+    "jobtitle": "Job-460",
+    "maxsalary": 55939.0,
+    "minsalary": 20419.0
+  },
+  {
+    "jobid": 949,
+    "jobtitle": "Job-460",
+    "maxsalary": 55944.0,
+    "minsalary": 20421.0
+  },
+  {
+    "jobid": 950,
+    "jobtitle": "Job-460",
+    "maxsalary": 55949.0,
+    "minsalary": 20424.0
+  },
+  {
+    "jobid": 951,
+    "jobtitle": "Job-461",
+    "maxsalary": 56010.0,
+    "minsalary": 20462.0
+  },
+  {
+    "jobid": 952,
+    "jobtitle": "Job-461",
+    "maxsalary": 56028.0,
+    "minsalary": 20473.0
+  },
+  {
+    "jobid": 953,
+    "jobtitle": "Job-462",
+    "maxsalary": 56116.0,
+    "minsalary": 20527.0
+  },
+  {
+    "jobid": 954,
+    "jobtitle": "Job-462",
+    "maxsalary": 56167.0,
+    "minsalary": 20558.0
+  },
+  {
+    "jobid": 955,
+    "jobtitle": "Job-463",
+    "maxsalary": 56255.0,
+    "minsalary": 20612.0
+  },
+  {
+    "jobid": 956,
+    "jobtitle": "Job-463",
+    "maxsalary": 56258.0,
+    "minsalary": 20614.0
+  },
+  {
+    "jobid": 957,
+    "jobtitle": "Job-464",
+    "maxsalary": 56312.0,
+    "minsalary": 20647.0
+  },
+  {
+    "jobid": 958,
+    "jobtitle": "Job-464",
+    "maxsalary": 56349.0,
+    "minsalary": 20670.0
+  },
+  {
+    "jobid": 959,
+    "jobtitle": "Job-464",
+    "maxsalary": 56368.0,
+    "minsalary": 20682.0
+  },
+  {
+    "jobid": 960,
+    "jobtitle": "Job-464",
+    "maxsalary": 56382.0,
+    "minsalary": 20690.0
+  },
+  {
+    "jobid": 961,
+    "jobtitle": "Job-466",
+    "maxsalary": 56516.0,
+    "minsalary": 20773.0
+  },
+  {
+    "jobid": 962,
+    "jobtitle": "Job-466",
+    "maxsalary": 56598.0,
+    "minsalary": 20824.0
+  },
+  {
+    "jobid": 963,
+    "jobtitle": "Job-467",
+    "maxsalary": 56623.0,
+    "minsalary": 20839.0
+  },
+  {
+    "jobid": 964,
+    "jobtitle": "Job-467",
+    "maxsalary": 56667.0,
+    "minsalary": 20867.0
+  },
+  {
+    "jobid": 965,
+    "jobtitle": "Job-467",
+    "maxsalary": 56668.0,
+    "minsalary": 20867.0
+  },
+  {
+    "jobid": 966,
+    "jobtitle": "Job-467",
+    "maxsalary": 56684.0,
+    "minsalary": 20877.0
+  },
+  {
+    "jobid": 967,
+    "jobtitle": "Job-468",
+    "maxsalary": 56714.0,
+    "minsalary": 20896.0
+  },
+  {
+    "jobid": 968,
+    "jobtitle": "Job-468",
+    "maxsalary": 56782.0,
+    "minsalary": 20938.0
+  },
+  {
+    "jobid": 969,
+    "jobtitle": "Job-469",
+    "maxsalary": 56835.0,
+    "minsalary": 20971.0
+  },
+  {
+    "jobid": 970,
+    "jobtitle": "Job-469",
+    "maxsalary": 56837.0,
+    "minsalary": 20972.0
+  },
+  {
+    "jobid": 971,
+    "jobtitle": "Job-469",
+    "maxsalary": 56851.0,
+    "minsalary": 20981.0
+  },
+  {
+    "jobid": 972,
+    "jobtitle": "Job-470",
+    "maxsalary": 56933.0,
+    "minsalary": 21032.0
+  },
+  {
+    "jobid": 973,
+    "jobtitle": "Job-470",
+    "maxsalary": 56949.0,
+    "minsalary": 21042.0
+  },
+  {
+    "jobid": 974,
+    "jobtitle": "Job-470",
+    "maxsalary": 56989.0,
+    "minsalary": 21067.0
+  },
+  {
+    "jobid": 975,
+    "jobtitle": "Job-470",
+    "maxsalary": 56995.0,
+    "minsalary": 21070.0
+  },
+  {
+    "jobid": 976,
+    "jobtitle": "Job-471",
+    "maxsalary": 57030.0,
+    "minsalary": 21092.0
+  },
+  {
+    "jobid": 977,
+    "jobtitle": "Job-472",
+    "maxsalary": 57162.0,
+    "minsalary": 21175.0
+  },
+  {
+    "jobid": 978,
+    "jobtitle": "Job-473",
+    "maxsalary": 57221.0,
+    "minsalary": 21212.0
+  },
+  {
+    "jobid": 979,
+    "jobtitle": "Job-473",
+    "maxsalary": 57236.0,
+    "minsalary": 21221.0
+  },
+  {
+    "jobid": 980,
+    "jobtitle": "Job-473",
+    "maxsalary": 57239.0,
+    "minsalary": 21223.0
+  },
+  {
+    "jobid": 981,
+    "jobtitle": "Job-473",
+    "maxsalary": 57242.0,
+    "minsalary": 21225.0
+  },
+  {
+    "jobid": 982,
+    "jobtitle": "Job-473",
+    "maxsalary": 57252.0,
+    "minsalary": 21231.0
+  },
+  {
+    "jobid": 983,
+    "jobtitle": "Job-473",
+    "maxsalary": 57286.0,
+    "minsalary": 21253.0
+  },
+  {
+    "jobid": 984,
+    "jobtitle": "Job-473",
+    "maxsalary": 57288.0,
+    "minsalary": 21254.0
+  },
+  {
+    "jobid": 985,
+    "jobtitle": "Job-474",
+    "maxsalary": 57368.0,
+    "minsalary": 21304.0
+  },
+  {
+    "jobid": 986,
+    "jobtitle": "Job-474",
+    "maxsalary": 57395.0,
+    "minsalary": 21321.0
+  },
+  {
+    "jobid": 987,
+    "jobtitle": "Job-475",
+    "maxsalary": 57423.0,
+    "minsalary": 21339.0
+  },
+  {
+    "jobid": 988,
+    "jobtitle": "Job-476",
+    "maxsalary": 57574.0,
+    "minsalary": 21434.0
+  },
+  {
+    "jobid": 989,
+    "jobtitle": "Job-477",
+    "maxsalary": 57634.0,
+    "minsalary": 21472.0
+  },
+  {
+    "jobid": 990,
+    "jobtitle": "Job-477",
+    "maxsalary": 57660.0,
+    "minsalary": 21488.0
+  },
+  {
+    "jobid": 991,
+    "jobtitle": "Job-477",
+    "maxsalary": 57673.0,
+    "minsalary": 21496.0
+  },
+  {
+    "jobid": 992,
+    "jobtitle": "Job-477",
+    "maxsalary": 57676.0,
+    "minsalary": 21498.0
+  },
+  {
+    "jobid": 993,
+    "jobtitle": "Job-477",
+    "maxsalary": 57684.0,
+    "minsalary": 21503.0
+  },
+  {
+    "jobid": 994,
+    "jobtitle": "Job-478",
+    "maxsalary": 57704.0,
+    "minsalary": 21516.0
+  },
+  {
+    "jobid": 995,
+    "jobtitle": "Job-478",
+    "maxsalary": 57728.0,
+    "minsalary": 21531.0
+  },
+  {
+    "jobid": 996,
+    "jobtitle": "Job-479",
+    "maxsalary": 57873.0,
+    "minsalary": 21623.0
+  },
+  {
+    "jobid": 997,
+    "jobtitle": "Job-480",
+    "maxsalary": 57982.0,
+    "minsalary": 21692.0
+  },
+  {
+    "jobid": 998,
+    "jobtitle": "Job-483",
+    "maxsalary": 58219.0,
+    "minsalary": 21843.0
+  },
+  {
+    "jobid": 999,
+    "jobtitle": "Job-483",
+    "maxsalary": 58235.0,
+    "minsalary": 21853.0
+  },
+  {
+    "jobid": 1000,
+    "jobtitle": "Job-484",
+    "maxsalary": 58355.0,
+    "minsalary": 21930.0
+  }
+]

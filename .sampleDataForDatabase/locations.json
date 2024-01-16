@@ -1,0 +1,58 @@
+[
+  {
+    "location_id": 1,
+    "city": "Baku",
+    "postal_code": 1000,
+    "state_province": "Baku",
+    "street_address": "Mustafa Street",
+    "country_country_id": 1
+  },
+  {
+    "location_id": 2,
+    "city": "Ankara",
+    "postal_code": 12500,
+    "state_province": "Istanbul",
+    "street_address": "Ataturk Street",
+    "country_country_id": 2
+  },
+  {
+    "location_id": 12,
+    "city": "Moscow",
+    "postal_code": 20400,
+    "state_province": "Krasnodar",
+    "street_address": "Pushkin street",
+    "country_country_id": 12
+  },
+  {
+    "location_id": 3,
+    "city": "Batumi",
+    "postal_code": 23,
+    "state_province": "Batumi",
+    "street_address": "Xengel street",
+    "country_country_id": 6
+  },
+  {
+    "location_id": 4,
+    "city": "Rio",
+    "postal_code": 27000,
+    "state_province": "Rio de Janeiro",
+    "street_address": "Estrada da Vista Chinesa",
+    "country_country_id": 20
+  },
+  {
+    "location_id": 32,
+    "city": "Kinshasa",
+    "postal_code": 223,
+    "state_province": "Kinshasa",
+    "street_address": "Rue Dilandos",
+    "country_country_id": 10
+  },
+  {
+    "location_id": 5,
+    "city": "Tbilisi",
+    "postal_code": 144,
+    "state_province": "Asomtavruli",
+    "street_address": "Betlemi Street",
+    "country_country_id": 6
+  }
+]

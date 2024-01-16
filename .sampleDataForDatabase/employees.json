@@ -1,0 +1,38 @@
+[
+  {
+    "employee_id": 10,
+    "email": "name10@gmail.com",
+    "first_name": "Firstname10",
+    "hire_date": "1/1/2024 17:33:35",
+    "last_name": "lastname10",
+    "phone_number": "05345435435",
+    "salary": 2500.0,
+    "department_department_id": 1,
+    "job_jobid": 54,
+    "manager_employee_id": 10
+  },
+  {
+    "employee_id": 1,
+    "email": "name1@gmail.com",
+    "first_name": "firstName1",
+    "hire_date": "1/12/2023 15:15:20",
+    "last_name": "lastName1",
+    "phone_number": "055-555-55-55",
+    "salary": 1250.0,
+    "department_department_id": 1,
+    "job_jobid": 5,
+    "manager_employee_id": 10
+  },
+  {
+    "employee_id": 2,
+    "email": "name2",
+    "first_name": "firstName1",
+    "hire_date": "7/8/2023 17:37:10",
+    "last_name": "lastname1",
+    "phone_number": "055-555-55-55",
+    "salary": 1300.0,
+    "department_department_id": 3,
+    "job_jobid": 5,
+    "manager_employee_id": null
+  }
+]

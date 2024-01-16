@@ -1,0 +1,42 @@
+[
+  {
+    "country_id": 1,
+    "Country Name": "Azerbaijan",
+    "region_region_id": 3
+  },
+  {
+    "country_id": 2,
+    "Country Name": "Turkey",
+    "region_region_id": 4
+  },
+  {
+    "country_id": 12,
+    "Country Name": "Russia",
+    "region_region_id": 3
+  },
+  {
+    "country_id": 4,
+    "Country Name": "USA",
+    "region_region_id": 5
+  },
+  {
+    "country_id": 20,
+    "Country Name": "Brazil",
+    "region_region_id": 6
+  },
+  {
+    "country_id": 21,
+    "Country Name": "Australia",
+    "region_region_id": 7
+  },
+  {
+    "country_id": 6,
+    "Country Name": "Georgia",
+    "region_region_id": 1
+  },
+  {
+    "country_id": 10,
+    "Country Name": "Congo",
+    "region_region_id": 8
+  }
+]
